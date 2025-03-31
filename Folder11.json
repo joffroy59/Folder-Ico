@@ -297,6 +297,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "HiSpark",
+      "size": "58906",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/HiSpark.ico",
+      "hash": "9e268326b02efa2aa8eae8b01e7732f9e80a22a4",
+      "date": "2025-03-29T08:37:12+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "KUROGAME-1",
       "size": "49639",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/KUROGAME-1.ico",
@@ -1865,6 +1873,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "bocbank",
+      "size": "60076",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bocbank.ico",
+      "hash": "38b756359dd70c7a9abbc84c69b45cb618315c64",
+      "date": "2025-03-24T20:06:58+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "bookmark",
       "size": "58636",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bookmark.ico",
@@ -2038,6 +2054,30 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chatgpt.ico",
       "hash": "82ececebf2a15aa3535b122c65f4645b37ef4f09",
       "date": "2023-10-18T16:41:09+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "chip-1",
+      "size": "48647",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chip-1.ico",
+      "hash": "4f469805d9a852888cde87bd6fdd9605f6b6c4dd",
+      "date": "2025-03-29T23:46:17+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "chip-2",
+      "size": "54055",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chip-2.ico",
+      "hash": "6e0936b2c069a704c2d7e3108d6fe0765e0bb8f3",
+      "date": "2025-03-29T23:46:17+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "chip",
+      "size": "55395",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chip.ico",
+      "hash": "718aa0b4955595ba21af346d3facc2efec963603",
+      "date": "2025-03-29T23:46:17+08:00",
       "small_svg_url": ""
     },
     {
@@ -7841,6 +7881,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "stm32",
+      "size": "57404",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stm32.ico",
+      "hash": "fca133a60a9f61c4d71e4569f69a1c59325cfd43",
+      "date": "2025-03-29T23:46:17+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "streamlabs",
       "size": "65544",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/streamlabs.ico",
@@ -8041,6 +8089,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "tencent_wemeet",
+      "size": "56947",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/tencent_wemeet.ico",
+      "hash": "a7f7477c223053a28b66c6c54321cd9cd43f7985",
+      "date": "2025-03-24T20:06:58+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "tensor_flow",
       "size": "60736",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/tensor_flow.ico",
@@ -8134,6 +8190,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/tim.ico",
       "hash": "0e95c371d05b5a4a043fedfc003d894b1a20c18a",
       "date": "2023-10-05T21:37:31+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "todesk",
+      "size": "54745",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/todesk.ico",
+      "hash": "3a983cb4034a78c1c95de715af0c9466ab197595",
+      "date": "2025-03-24T20:06:58+08:00",
       "small_svg_url": ""
     },
     {
