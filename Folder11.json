@@ -81,6 +81,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "AND",
+      "size": "55667",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/AND.ico",
+      "hash": "6cae9e416875fc2ea94d1519d84a33acc4b05b0d",
+      "date": "2025-04-02T14:07:17+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "AltiumDesigner",
       "size": "56919",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/AltiumDesigner.ico",
@@ -206,6 +214,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/EASYEDA.ico",
       "hash": "39a664bfde3e77d62be516d5d72b6f0b30a6dba3",
       "date": "2025-03-10T18:25:18+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "ESPIDF-1",
+      "size": "64770",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ESPIDF-1.ico",
+      "hash": "35f4a0a33b735faaef8624bd886bfb6f2ee4c691",
+      "date": "2025-04-02T01:57:08+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "ESPIDF",
+      "size": "66719",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ESPIDF.ico",
+      "hash": "bbc4c160b4944bb6bb1a13b7ef0cf9bd1c0bc68d",
+      "date": "2025-04-02T01:57:08+08:00",
       "small_svg_url": ""
     },
     {
@@ -433,6 +457,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "LuckFox",
+      "size": "59679",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/LuckFox.ico",
+      "hash": "f4fc4bd29f7bd3ce1c7abf102d2d97ea099ad1e4",
+      "date": "2025-04-02T01:57:08+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Microsoft_Package_Download-1",
       "size": "55378",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Microsoft_Package_Download-1.ico",
@@ -465,11 +497,67 @@
       "small_svg_url": ""
     },
     {
+      "name": "NAND",
+      "size": "56636",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/NAND.ico",
+      "hash": "5a92905fa33ad73c1a3032a3d8d962a8f7e0d220",
+      "date": "2025-04-02T14:07:17+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "NOR",
+      "size": "61384",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/NOR.ico",
+      "hash": "50f757f3ac87a8bff795535172f6515da4689e05",
+      "date": "2025-04-02T14:07:17+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "NOT",
+      "size": "59055",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/NOT.ico",
+      "hash": "cb5a25da9d3b31fa8cb55ef51d346911bb07c235",
+      "date": "2025-04-02T14:07:17+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "OR",
+      "size": "60678",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/OR.ico",
+      "hash": "2e3fb2cfba558bda3f9c50ee0f98f2abf0ddbe18",
+      "date": "2025-04-02T14:07:17+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "OpenCV",
       "size": "58279",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/OpenCV.ico",
       "hash": "50dea7657c3421c296b0137342e0764eb8fcb9c3",
       "date": "2025-03-25T21:17:11+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "OrangePi",
+      "size": "68171",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/OrangePi.ico",
+      "hash": "9f61e2a6547bcfce7b12b914843120b2b56278d6",
+      "date": "2025-04-02T01:57:08+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "RTthread-1",
+      "size": "57771",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/RTthread-1.ico",
+      "hash": "8a5e4c5c6dfa64fe3d7991e4c7c3e3552955495c",
+      "date": "2025-04-02T01:57:08+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "RTthread",
+      "size": "61702",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/RTthread.ico",
+      "hash": "efcdead183227823a21d17a53b005daf529416cb",
+      "date": "2025-04-02T01:57:08+08:00",
       "small_svg_url": ""
     },
     {
@@ -505,11 +593,35 @@
       "small_svg_url": ""
     },
     {
+      "name": "VOFA",
+      "size": "62885",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/VOFA.ico",
+      "hash": "817ab4281716bcf0aa4b9a03ac7a722e645e38d7",
+      "date": "2025-04-02T01:57:08+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Vivado",
       "size": "55183",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Vivado.ico",
       "hash": "ddce9bf8b9bcd2fa821fbc3572a645e1e767a655",
       "date": "2025-03-11T16:35:09+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "XNOR",
+      "size": "64275",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/XNOR.ico",
+      "hash": "08c2e3354066bb642d3b56f87286dcafa5dea402",
+      "date": "2025-04-02T14:07:17+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "XOR",
+      "size": "63503",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/XOR.ico",
+      "hash": "1e6420751e0cf6ef6029058d94d4c40d44399370",
+      "date": "2025-04-02T14:07:17+08:00",
       "small_svg_url": ""
     },
     {
