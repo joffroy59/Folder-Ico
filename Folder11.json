@@ -97,6 +97,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "Asus_30",
+      "size": "64398",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Asus_30.ico",
+      "hash": "0a66d409f517efc5e1a9c95b9a23e26d2c9575eb",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Asus_ProArt",
+      "size": "63385",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Asus_ProArt.ico",
+      "hash": "47c70833a66182906b9754aaa076a239f3afa0cd",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "CCS",
       "size": "58481",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/CCS.ico",
@@ -457,6 +473,54 @@
       "small_svg_url": ""
     },
     {
+      "name": "Logitech-1",
+      "size": "59229",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Logitech-1.ico",
+      "hash": "dc5b1566893ee8e7de2e81c45b5abe6b024dce45",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Logitech-2",
+      "size": "62339",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Logitech-2.ico",
+      "hash": "027373ac3de0b685bbdc1be311021008f91f30ea",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Logitech_Options+",
+      "size": "61259",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Logitech_Options+.ico",
+      "hash": "4102a000767ec7b53aabbf56f0254e39423e1825",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Logitech_Options-1",
+      "size": "66873",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Logitech_Options-1.ico",
+      "hash": "752003b9534c583d294c93153f51ac35031e330c",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Logitech_Options",
+      "size": "64418",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Logitech_Options.ico",
+      "hash": "c8e9329f09cc32dd7195c555c4cb557835ae3176",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Logitech_control",
+      "size": "62292",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Logitech_control.ico",
+      "hash": "b42bb1cc23bf0d63231853ec952e8c30aabd02ce",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "LuckFox",
       "size": "59679",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/LuckFox.ico",
@@ -545,6 +609,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "Qualcomm",
+      "size": "61067",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Qualcomm.ico",
+      "hash": "808c6ce7b96eb44d1106283a1349e1893efe98cb",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "RTthread-1",
       "size": "57771",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/RTthread-1.ico",
@@ -574,6 +646,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Shortcuts.ico",
       "hash": "aadf379202417b03e5ef3376ec73bf69adfef34d",
       "date": "2025-03-21T11:16:37+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Tailscale",
+      "size": "58803",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Tailscale.ico",
+      "hash": "b8017846482431c6cda6bf4993c3d17b042a6821",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -862,6 +942,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/adobe_experience_design.ico",
       "hash": "57ba429f0892a53bc82f2f73fe726f2815b33a31",
       "date": "2021-12-07T16:32:35+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "adobe_flash_player",
+      "size": "54323",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/adobe_flash_player.ico",
+      "hash": "b683f08d52d316e62161b99027174e0f98246eff",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -1622,6 +1710,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/astro.ico",
       "hash": "a3128a0ca1fccee84697edb3c8fd715698906048",
       "date": "2023-11-10T14:14:26+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "asus",
+      "size": "59302",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/asus.ico",
+      "hash": "a0380c8e08cd78d3c0326fda55c79befbe9e4df2",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -2633,6 +2729,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "dolby",
+      "size": "67473",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dolby.ico",
+      "hash": "90a13f452ff6331bf29ca8d9b4df540820037847",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "dosbox_new_01",
       "size": "67068",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dosbox_new_01.ico",
@@ -2686,6 +2790,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dropbox.ico",
       "hash": "d40ea5294f5c35fae865a684be6ad9fe38a3e7b2",
       "date": "2022-01-21T09:51:28+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "dts",
+      "size": "77708",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dts.ico",
+      "hash": "401460abc6278ccabe3dd48218eed45c5a43fa2d",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -3134,6 +3246,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/fontforge.ico",
       "hash": "2472401ab0b78b03e12bbdbb96a6a3b2036943ed",
       "date": "2023-07-05T19:33:22+03:30",
+      "small_svg_url": ""
+    },
+    {
+      "name": "foobar2000",
+      "size": "59602",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/foobar2000.ico",
+      "hash": "6441c974d32db45fedc765be67fb1eecd99d0944",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -3806,6 +3926,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/gulp.ico",
       "hash": "bb83990e23f3016d3dac9957cd499f60f6be685f",
       "date": "2023-11-10T14:14:26+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "handshaker-1",
+      "size": "66306",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/handshaker-1.ico",
+      "hash": "7b411a80ec04810dbf9b884efa9c15905e71faa0",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "handshaker",
+      "size": "65186",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/handshaker.ico",
+      "hash": "696e2d70cb06bf0e72a5dfe47d30aaf195a5d2cf",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -7225,6 +7361,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "potplayer",
+      "size": "57494",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/potplayer.ico",
+      "hash": "f85e24aa7a6d746e235031c3159b5b4024538b19",
+      "date": "2025-04-07T11:53:54+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "power_shell",
       "size": "64928",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/power_shell.ico",
@@ -7750,6 +7894,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/schedule.ico",
       "hash": "ac8b0f4a8541123a016c3c21580eb6f244987f26",
       "date": "2023-10-16T15:08:25+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "scrcpy",
+      "size": "61677",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/scrcpy.ico",
+      "hash": "e5427f53b48ce64dd0b2423f528aecdfa641e505",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
@@ -8614,6 +8766,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/v.ico",
       "hash": "e249da7562a09c6b6ce7d987b380aed6e4d7e242",
       "date": "2023-12-15T09:04:52+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "v2ray",
+      "size": "57234",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/v2ray.ico",
+      "hash": "97fc4f015b9f0f07c39e0570bfcae97785a967eb",
+      "date": "2025-04-07T11:53:54+07:00",
       "small_svg_url": ""
     },
     {
