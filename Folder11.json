@@ -409,6 +409,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "KeePassXC-1",
+      "size": "66365",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/KeePassXC-1.ico",
+      "hash": "7977f5969708a7181559aab8cb182645a04a6a0b",
+      "date": "2025-05-01T21:14:29+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/KeePassXC-1.svg"
+    },
+    {
+      "name": "KeePassXC",
+      "size": "66365",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/KeePassXC.ico",
+      "hash": "7977f5969708a7181559aab8cb182645a04a6a0b",
+      "date": "2025-05-01T21:14:29+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/KeePassXC.svg"
+    },
+    {
       "name": "Kicad_GERBER",
       "size": "58968",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Kicad_GERBER.ico",
