@@ -7849,6 +7849,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "rpi",
+      "size": "65903",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/rpi.ico",
+      "hash": "9df8b817d9aecc692a2458510571d658b9d9e1fb",
+      "date": "2025-05-22T18:56:43-04:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "ruby",
       "size": "65839",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ruby.ico",
