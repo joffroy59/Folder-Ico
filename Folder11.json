@@ -113,6 +113,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "Autohotkey",
+      "size": "61780",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Autohotkey.ico",
+      "hash": "4c203ed192eec7e7bd04701065debdc866c32671",
+      "date": "2025-05-22T18:36:43-04:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "CCS",
       "size": "58481",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/CCS.ico",
@@ -1662,6 +1670,30 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apple_podcasts.ico",
       "hash": "3b50757ada49c0ab6fa8aaa9b61c7b1f7b6fcea0",
       "date": "2022-02-18T17:03:15+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "application-1",
+      "size": "61127",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/application-1.ico",
+      "hash": "158d7a005c92b6a16dc179fa60247c1c570d6e0d",
+      "date": "2025-06-16T20:52:33+10:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "application-2",
+      "size": "61784",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/application-2.ico",
+      "hash": "1748fc3c1a9ee305db4d64d2b0c20929bfddfe8e",
+      "date": "2025-06-16T20:52:33+10:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "application-3",
+      "size": "58269",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/application-3.ico",
+      "hash": "4da010a8d9c846ce4655b8ccc71e081b99e91ce7",
+      "date": "2025-06-16T20:52:33+10:00",
       "small_svg_url": ""
     },
     {
@@ -6225,6 +6257,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "new-england-patriots",
+      "size": "65056",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/new-england-patriots.ico",
+      "hash": "efe473de14a0424f5aea66516f384921a4fccba3",
+      "date": "2025-05-22T18:52:23-04:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "nextjs",
       "size": "63226",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/nextjs.ico",
@@ -6540,17 +6580,25 @@
       "name": "obsidian-1",
       "size": "61962",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/obsidian-1.ico",
-      "hash": "ade11a6ca60527dd170fa6efa45236f29b342ce2",
+      "hash": "ef1c46f07321dd5e6e507eab8917c9640f69d06d",
       "date": "2023-10-19T16:56:31+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/obsidian-1.svg"
     },
     {
       "name": "obsidian-2",
       "size": "61016",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/obsidian-2.ico",
-      "hash": "4667b4c237b219fcfd3a0e6a6fb7bc14a96a1abf",
+      "hash": "71207e496864740cc2870e212977713f9d090844",
       "date": "2023-10-22T22:20:14+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/obsidian-2.svg"
+    },
+    {
+      "name": "obsidian-3",
+      "size": "59160",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/obsidian-3.ico",
+      "hash": "6127221ca1f1db9a14615a485c9914dbcacb7bcf",
+      "date": "2025-06-12T12:16:04+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/obsidian-3.svg"
     },
     {
       "name": "obsidian",
