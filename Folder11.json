@@ -1673,6 +1673,30 @@
       "small_svg_url": ""
     },
     {
+      "name": "application-1",
+      "size": "61127",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/application-1.ico",
+      "hash": "158d7a005c92b6a16dc179fa60247c1c570d6e0d",
+      "date": "2025-06-16T20:52:33+10:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "application-2",
+      "size": "61784",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/application-2.ico",
+      "hash": "1748fc3c1a9ee305db4d64d2b0c20929bfddfe8e",
+      "date": "2025-06-16T20:52:33+10:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "application-3",
+      "size": "58269",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/application-3.ico",
+      "hash": "4da010a8d9c846ce4655b8ccc71e081b99e91ce7",
+      "date": "2025-06-16T20:52:33+10:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "apps",
       "size": "54596",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apps.ico",
