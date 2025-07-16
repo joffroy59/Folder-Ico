@@ -257,6 +257,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "ETS2LA",
+      "size": "64411",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ETS2LA.ico",
+      "hash": "e6cbdb78b3b2c7008e5ecfb68e2d93d94959320d",
+      "date": "2025-07-12T04:29:45+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Electronic_Arts-1",
       "size": "62855",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Electronic_Arts-1.ico",
@@ -279,6 +287,14 @@
       "hash": "987161743c9890bbe17c5bdd60a5d5264170e974",
       "date": "2025-04-12T18:27:59+03:30",
       "small_svg_url": ""
+    },
+    {
+      "name": "Evolution_X",
+      "size": "57834",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Evolution_X.ico",
+      "hash": "d35f7aba804f8d904178421485c3a47838192369",
+      "date": "2025-07-11T22:18:01+08:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Evolution_X.svg"
     },
     {
       "name": "Font-2",
@@ -2529,6 +2545,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "crewai",
+      "size": "74816",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/crewai.ico",
+      "hash": "cb8ba8dae53cb45c7cbecc735f974ea1ed3d5950",
+      "date": "2025-06-09T18:07:48+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/crewai.svg"
+    },
+    {
       "name": "crystal",
       "size": "62915",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/crystal.ico",
@@ -2647,6 +2671,14 @@
       "hash": "6fd024db7b815ea5223d0fa6da77e20c48f73f74",
       "date": "2022-03-17T17:10:45+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "ddev",
+      "size": "67078",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ddev.ico",
+      "hash": "f2b3c91938048ec15f9d8efb5af00ba2fdf2fb3c",
+      "date": "2025-06-09T20:05:24+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ddev.svg"
     },
     {
       "name": "death_note",
@@ -4625,6 +4657,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "joomla",
+      "size": "72075",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joomla.ico",
+      "hash": "ddbb2e0542b2dcf314f41931a879f986cb1b35a8",
+      "date": "2025-06-10T01:04:00+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/joomla.svg"
+    },
+    {
       "name": "jquery",
       "size": "59315",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/jquery.ico",
@@ -4793,6 +4833,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "langchain",
+      "size": "76664",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/langchain.ico",
+      "hash": "557a3543ceae358aef1d106aec2092d4c8e42940",
+      "date": "2025-06-10T01:03:34+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/langchain.svg"
+    },
+    {
       "name": "laravel",
       "size": "61358",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/laravel.ico",
@@ -4863,6 +4911,14 @@
       "hash": "08d0a031b19df0f5ef5fd6c8625714817c503499",
       "date": "2024-12-17T15:07:08+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "lens",
+      "size": "60931",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/lens.ico",
+      "hash": "36132dd3493665b96f74e2044e7a8d4c6063acda",
+      "date": "2025-06-10T01:04:05+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/lens.svg"
     },
     {
       "name": "leonardo.ai",
@@ -7585,6 +7641,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "prompt",
+      "size": "66720",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/prompt.ico",
+      "hash": "cc106fd337af634d37ba9f078eaf7eb914c73061",
+      "date": "2025-06-10T01:03:25+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/prompt.svg"
+    },
+    {
       "name": "pug",
       "size": "69484",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pug.ico",
@@ -8223,6 +8287,14 @@
       "hash": "c7b508067c6f39ff7f2bd46e3649267664753ab9",
       "date": "2022-02-16T08:47:01+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "stability_matrix",
+      "size": "72698",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stability_matrix.ico",
+      "hash": "cbdb82e13a927a8580221c6f308d6b356010a9e2",
+      "date": "2025-06-09T01:49:05+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/stability_matrix.svg"
     },
     {
       "name": "stackoverflow",
