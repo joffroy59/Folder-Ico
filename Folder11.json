@@ -1,6 +1,14 @@
 {
   "icons": [
     {
+      "name": "3D_Printer",
+      "size": "59778",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/3D_Printer.ico",
+      "hash": "a4f2a2bb8817f39485989dc06ca384250acc33fb",
+      "date": "2025-08-23T11:19:28-04:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "3d_coat",
       "size": "66166",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/3d_coat.ico",
@@ -374,6 +382,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/HiSpark.ico",
       "hash": "9e268326b02efa2aa8eae8b01e7732f9e80a22a4",
       "date": "2025-03-29T08:37:12+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Home_Assisant",
+      "size": "60173",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Home_Assisant.ico",
+      "hash": "59ea9f8c2dfaab4f0c704a02639d0331933149f1",
+      "date": "2025-08-23T11:19:28-04:00",
       "small_svg_url": ""
     },
     {
@@ -2692,9 +2708,9 @@
       "name": "debian",
       "size": "61407",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/debian.ico",
-      "hash": "3f9d7b1182d82098e766451580b61324d4c14861",
+      "hash": "6e46a36021af6d772bcb06c5cf3e16677319ffc2",
       "date": "2023-10-27T13:43:28+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/debian.svg"
     },
     {
       "name": "deemix",
@@ -8772,17 +8788,17 @@
       "name": "ubuntu-1",
       "size": "63437",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ubuntu-1.ico",
-      "hash": "38707b2a608e49adbbda8a8423db26036d62e4ee",
+      "hash": "d6b0c406651a6ca7f2b64ad8e7e86fff866deb0e",
       "date": "2021-12-15T20:25:13+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ubuntu-1.svg"
     },
     {
       "name": "ubuntu",
       "size": "61292",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ubuntu.ico",
-      "hash": "0ea2b80c59142cf0ac10d72e0e924a5ad4fd9e97",
+      "hash": "110177abea13da0a514259b860f5033077b723e7",
       "date": "2021-12-15T20:25:13+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ubuntu.svg"
     },
     {
       "name": "uefn",
