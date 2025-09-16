@@ -2497,6 +2497,14 @@
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/comfyui.svg"
     },
     {
+      "name": "comfyui_org",
+      "size": "64536",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/comfyui_org.ico",
+      "hash": "ed968bfdcd28528f292793b5673a85034be61b84",
+      "date": "2025-07-25T16:08:34-03:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "concepts-1",
       "size": "58466",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/concepts-1.ico",
@@ -3078,6 +3086,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/emule.ico",
       "hash": "bfe2554d2d9f08c09cf08245ede352f8472727e5",
       "date": "2022-03-17T16:52:21+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "enpass",
+      "size": "53979",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/enpass.ico",
+      "hash": "72f7919b2f338dd4e8ba7d1e43b3bdf549a778b2",
+      "date": "2025-09-15T22:46:17+02:00",
       "small_svg_url": ""
     },
     {
