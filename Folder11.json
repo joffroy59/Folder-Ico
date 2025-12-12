@@ -2777,6 +2777,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "darkbasic",
+      "size": "62784",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/darkbasic.ico",
+      "hash": "814ca4899dd3a03e70fd97eb7b714638e8cf7149",
+      "date": "2025-12-12T16:44:44+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "dart",
       "size": "60829",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dart.ico",
@@ -3215,6 +3223,14 @@
       "hash": "72f7919b2f338dd4e8ba7d1e43b3bdf549a778b2",
       "date": "2025-09-15T22:46:17+02:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "epic",
+      "size": "57456",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/epic.ico",
+      "hash": "ab09f793340a95a314bd809b187684f20c14b978",
+      "date": "2025-12-12T16:46:17+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/epic.svg"
     },
     {
       "name": "epic_game_store",
@@ -9934,6 +9950,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xiaomi.ico",
       "hash": "8a4670813f57a4a904ea3a4343a4081f82e5fb89",
       "date": "2023-11-20T08:41:58+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "xna",
+      "size": "60588",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xna.ico",
+      "hash": "d5fba78b490177ed210f7483552979d046ad4af8",
+      "date": "2025-12-12T16:45:04+07:00",
       "small_svg_url": ""
     },
     {
