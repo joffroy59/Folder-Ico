@@ -1,6 +1,14 @@
 {
   "icons": [
     {
+      "name": "3D_Printer",
+      "size": "59778",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/3D_Printer.ico",
+      "hash": "a4f2a2bb8817f39485989dc06ca384250acc33fb",
+      "date": "2025-08-23T11:19:28-04:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "3d_coat",
       "size": "66166",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/3d_coat.ico",
@@ -225,6 +233,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "Design-1",
+      "size": "67353",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Design-1.ico",
+      "hash": "5ccebc88e9b6efb7aa192f28627ae42a9e91162e",
+      "date": "2025-11-14T13:34:36+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Design-1.svg"
+    },
+    {
+      "name": "Design",
+      "size": "73243",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Design.ico",
+      "hash": "e5f3b546426987bbdecbecc3b0a936cdbc7c679e",
+      "date": "2025-11-14T13:34:36+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Design.svg"
+    },
+    {
       "name": "Directory_Homer_Simpsons",
       "size": "75831",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Directory_Homer_Simpsons.ico",
@@ -257,6 +281,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "ETS2LA",
+      "size": "64411",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ETS2LA.ico",
+      "hash": "e6cbdb78b3b2c7008e5ecfb68e2d93d94959320d",
+      "date": "2025-07-12T04:29:45+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Electronic_Arts-1",
       "size": "62855",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Electronic_Arts-1.ico",
@@ -279,6 +311,14 @@
       "hash": "987161743c9890bbe17c5bdd60a5d5264170e974",
       "date": "2025-04-12T18:27:59+03:30",
       "small_svg_url": ""
+    },
+    {
+      "name": "Evolution_X",
+      "size": "57834",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Evolution_X.ico",
+      "hash": "d35f7aba804f8d904178421485c3a47838192369",
+      "date": "2025-07-11T22:18:01+08:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Evolution_X.svg"
     },
     {
       "name": "Font-2",
@@ -358,6 +398,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/HiSpark.ico",
       "hash": "9e268326b02efa2aa8eae8b01e7732f9e80a22a4",
       "date": "2025-03-29T08:37:12+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Home_Assisant",
+      "size": "60173",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Home_Assisant.ico",
+      "hash": "59ea9f8c2dfaab4f0c704a02639d0331933149f1",
+      "date": "2025-08-23T11:19:28-04:00",
       "small_svg_url": ""
     },
     {
@@ -766,6 +814,78 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ableton.ico",
       "hash": "6c7f34021925bfa57b3fbb1002a8582cc2ef99cb",
       "date": "2022-09-21T10:06:12+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv",
+      "size": "54110",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv.ico",
+      "hash": "7d05f600a4cb6f41ae7fbe8e9a518c803d1c9e04",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_benessere-1",
+      "size": "54488",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_benessere-1.ico",
+      "hash": "e637d405aa0bb2081e340d0b0892026625898bce",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_benessere",
+      "size": "52471",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_benessere.ico",
+      "hash": "1ac8f3aaeb5230c60a3958b65e562b142f1d6d3b",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_horeca-1",
+      "size": "57894",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_horeca-1.ico",
+      "hash": "8b900737490f1b11c83da1e3de29fc1a11fc11cc",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_horeca",
+      "size": "55693",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_horeca.ico",
+      "hash": "1c49dd596b449df6ac20b2b1654b3f789a82047c",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_masterclass-1",
+      "size": "54056",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_masterclass-1.ico",
+      "hash": "10c74ce0ca2d0844a152e409cf213c3cfce6cc8b",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_masterclass",
+      "size": "53211",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_masterclass.ico",
+      "hash": "617fdc023082836f7b466f0f5d5adb35bc815105",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_scuola-1",
+      "size": "53741",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_scuola-1.ico",
+      "hash": "a88e11508eb8d2edf85f1cb5247c86ebf131c659",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "academia_tv_scuola",
+      "size": "52663",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/academia_tv_scuola.ico",
+      "hash": "eb32d80bd76cd135ac0c05c469caa66bcf27523f",
+      "date": "2025-12-12T16:43:23+07:00",
       "small_svg_url": ""
     },
     {
@@ -1609,6 +1729,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "anonymous",
+      "size": "63163",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/anonymous.ico",
+      "hash": "f1147f7eef09e177561af68cb0cb68728e9a5d7e",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "ansible",
       "size": "63658",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ansible.ico",
@@ -1633,6 +1761,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "apacer-1",
+      "size": "61517",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apacer-1.ico",
+      "hash": "2332f21edba1d45de900326e1ccfec20abf02f8c",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "apacer",
+      "size": "64740",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apacer.ico",
+      "hash": "c3f5365cc56d5f9d129ce30079f5d0038dbf325d",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "apache_httpd",
       "size": "65048",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apache_httpd.ico",
@@ -1646,6 +1790,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apollo.ico",
       "hash": "60a7722d000fddd57cdb05ceb34fffe7c87df36f",
       "date": "2023-11-08T14:58:12+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "apple_arcade-1",
+      "size": "59839",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apple_arcade-1.ico",
+      "hash": "b86694c287427f161a07468eacd34dd6f2add85b",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "apple_arcade",
+      "size": "62977",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/apple_arcade.ico",
+      "hash": "d0c8c938549f473a493a729c5fe9573e8411c3f3",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -2137,6 +2297,30 @@
       "small_svg_url": ""
     },
     {
+      "name": "bluray-1",
+      "size": "64383",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bluray-1.ico",
+      "hash": "3da1515f132c083c7d1e727feeff1349b6e1cdea",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "bluray-2",
+      "size": "63328",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bluray-2.ico",
+      "hash": "e3ccaa39dd13627461bf1d181c2ef5766e593a97",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "bluray",
+      "size": "61982",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bluray.ico",
+      "hash": "1a6134ac84e21bc65bed4f6514ace158c4b038a8",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "bocbank",
       "size": "60076",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bocbank.ico",
@@ -2321,6 +2505,46 @@
       "small_svg_url": ""
     },
     {
+      "name": "checkmark-1",
+      "size": "57847",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/checkmark-1.ico",
+      "hash": "4f39f10941d9704707084c5cb92f717bfe0b3769",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "checkmark-2",
+      "size": "57676",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/checkmark-2.ico",
+      "hash": "2abfb2c1f03c2dadbff73758cf1c8e678d217947",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "checkmark",
+      "size": "58878",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/checkmark.ico",
+      "hash": "23396c7029f24208a1ebf3dc6ab8d3b20b5a9f38",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "chess_com",
+      "size": "52648",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chess_com.ico",
+      "hash": "bd0da0ae98458afc377ffdf69a440e56c74d4cba",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "chess_com_1",
+      "size": "51530",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chess_com_1.ico",
+      "hash": "e831d928fa0858b311ba4a6cc42be9c7194952ae",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "chip-1",
       "size": "48647",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/chip-1.ico",
@@ -2401,6 +2625,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "clock",
+      "size": "60112",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/clock.ico",
+      "hash": "2e23c69f79d1749d55faf920a21be82e8ebe4ff6",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "clojure",
       "size": "68322",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/clojure.ico",
@@ -2465,6 +2697,14 @@
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/comfyui.svg"
     },
     {
+      "name": "comfyui_org",
+      "size": "64536",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/comfyui_org.ico",
+      "hash": "ed968bfdcd28528f292793b5673a85034be61b84",
+      "date": "2025-07-25T16:08:34-03:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "concepts-1",
       "size": "58466",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/concepts-1.ico",
@@ -2527,6 +2767,14 @@
       "hash": "8a87123fced7c1478790aab62b9a777209d0f0f8",
       "date": "2021-12-11T19:17:25+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "crewai",
+      "size": "74816",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/crewai.ico",
+      "hash": "cb8ba8dae53cb45c7cbecc735f974ea1ed3d5950",
+      "date": "2025-06-09T18:07:48+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/crewai.svg"
     },
     {
       "name": "crystal",
@@ -2625,6 +2873,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "darkbasic",
+      "size": "62784",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/darkbasic.ico",
+      "hash": "814ca4899dd3a03e70fd97eb7b714638e8cf7149",
+      "date": "2025-12-12T16:44:44+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "dart",
       "size": "60829",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dart.ico",
@@ -2649,6 +2905,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "ddev",
+      "size": "67078",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ddev.ico",
+      "hash": "f2b3c91938048ec15f9d8efb5af00ba2fdf2fb3c",
+      "date": "2025-06-09T20:05:24+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ddev.svg"
+    },
+    {
       "name": "death_note",
       "size": "61652",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/death_note.ico",
@@ -2660,9 +2924,9 @@
       "name": "debian",
       "size": "61407",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/debian.ico",
-      "hash": "3f9d7b1182d82098e766451580b61324d4c14861",
+      "hash": "6e46a36021af6d772bcb06c5cf3e16677319ffc2",
       "date": "2023-10-27T13:43:28+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/debian.svg"
     },
     {
       "name": "deemix",
@@ -2865,6 +3129,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "dungeons_and_dragons-1",
+      "size": "58300",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dungeons_and_dragons-1.ico",
+      "hash": "9fd44d807a3273b64794093ea5f6981fc1c9a76f",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "dungeons_and_dragons",
+      "size": "60282",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dungeons_and_dragons.ico",
+      "hash": "3f3913bc9d5fd8d8814d7daffadd01d857cb883c",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "dynamodb",
       "size": "61607",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/dynamodb.ico",
@@ -3033,6 +3313,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "enpass",
+      "size": "53979",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/enpass.ico",
+      "hash": "72f7919b2f338dd4e8ba7d1e43b3bdf549a778b2",
+      "date": "2025-09-15T22:46:17+02:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "epic",
+      "size": "57456",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/epic.ico",
+      "hash": "8826cd8e45656c24718a184d637683b97a8d1265",
+      "date": "2025-12-12T16:46:17+07:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/epic.svg"
+    },
+    {
       "name": "epic_game_store",
       "size": "51670",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/epic_game_store.ico",
@@ -3166,6 +3462,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/figma-1.ico",
       "hash": "d2cf2324579f614d14c5b8fb5e1ad59ace657aaf",
       "date": "2022-04-13T04:58:45+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "figma-2",
+      "size": "61463",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/figma-2.ico",
+      "hash": "3d05e8e6a330d07a8797436f3bfe0eaad2b79bc9",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -4065,6 +4369,38 @@
       "small_svg_url": ""
     },
     {
+      "name": "hise",
+      "size": "62124",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/hise.ico",
+      "hash": "0cb72cb1bcfebdad3876e4ce9366b7f743978dd2",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "holyc-1",
+      "size": "63245",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/holyc-1.ico",
+      "hash": "6dd4ec22b20e152c5fc12050bc7cdb3791e7e3bf",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "holyc",
+      "size": "62528",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/holyc.ico",
+      "hash": "8b129ce53b0e9248ea29c39f4334006d7c098db9",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "horror",
+      "size": "61974",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/horror.ico",
+      "hash": "cdc68eedf234608ba0c883e4cb33179bdbb0de7d",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "houdini",
       "size": "65073",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/houdini.ico",
@@ -4209,6 +4545,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "imovie",
+      "size": "57234",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/imovie.ico",
+      "hash": "04569db675cfd7321236a3061f5cc02b878c7c9a",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "inkscape",
       "size": "70522",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/inkscape.ico",
@@ -4310,6 +4654,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/java-1.ico",
       "hash": "7baab9f1fa336e8dd105e5dcf78b2c6de9916aa6",
       "date": "2023-12-15T09:04:52+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "java-2",
+      "size": "58850",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/java-2.ico",
+      "hash": "d32b219661a47d6eab05f0e67e4a928971f011cb",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -4625,6 +4977,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "joomla",
+      "size": "72075",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/joomla.ico",
+      "hash": "ddbb2e0542b2dcf314f41931a879f986cb1b35a8",
+      "date": "2025-06-10T01:04:00+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/joomla.svg"
+    },
+    {
       "name": "jquery",
       "size": "59315",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/jquery.ico",
@@ -4793,6 +5153,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "langchain",
+      "size": "76664",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/langchain.ico",
+      "hash": "557a3543ceae358aef1d106aec2092d4c8e42940",
+      "date": "2025-06-10T01:03:34+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/langchain.svg"
+    },
+    {
       "name": "laravel",
       "size": "61358",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/laravel.ico",
@@ -4863,6 +5231,14 @@
       "hash": "08d0a031b19df0f5ef5fd6c8625714817c503499",
       "date": "2024-12-17T15:07:08+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "lens",
+      "size": "60931",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/lens.ico",
+      "hash": "36132dd3493665b96f74e2044e7a8d4c6063acda",
+      "date": "2025-06-10T01:04:05+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/lens.svg"
     },
     {
       "name": "leonardo.ai",
@@ -5089,6 +5465,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "marimo-1",
+      "size": "68316",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/marimo-1.ico",
+      "hash": "d4cb04f02725f187f6629d9a90a8e76610f6201d",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "marimo",
+      "size": "67383",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/marimo.ico",
+      "hash": "df5808f3817d405c48f8f9a8f6843673951b1577",
+      "date": "2025-12-12T16:43:23+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "markdown-1",
       "size": "62156",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/markdown-1.ico",
@@ -5102,6 +5494,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/markdown.ico",
       "hash": "0ffa82efbef87c946a1842915ab2575e8461142c",
       "date": "2022-02-07T09:46:39+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "marmoset",
+      "size": "63627",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/marmoset.ico",
+      "hash": "15f8781abe24697051d3ca2ee6eeb6ffa2733443",
+      "date": "2025-08-08T15:30:20+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "marmoset_text",
+      "size": "57059",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/marmoset_text.ico",
+      "hash": "d9c29ec81bbaab3ebc7d5c66f8ae004c4747c6c0",
+      "date": "2025-08-08T15:30:20+08:00",
       "small_svg_url": ""
     },
     {
@@ -5705,6 +6113,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "microsoft_regedit",
+      "size": "69898",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_regedit.ico",
+      "hash": "ddd19e9e6bf90f44a8adccbd151ad1a4e890bfb1",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "microsoft_remote_desktop",
       "size": "67314",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_remote_desktop.ico",
@@ -5774,6 +6190,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_sway.ico",
       "hash": "3f06ccc609c92ccde7f484630082fc14758583d1",
       "date": "2022-03-18T17:46:59+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "microsoft_sysinternal",
+      "size": "58976",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/microsoft_sysinternal.ico",
+      "hash": "d9c8c4bf88d18a0c5f82531340c061fd247dd16f",
+      "date": "2025-07-15T09:55:40+10:00",
       "small_svg_url": ""
     },
     {
@@ -5985,6 +6409,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "minecraft-2",
+      "size": "54565",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/minecraft-2.ico",
+      "hash": "39b42d197bd4b28b6d1a7f1c637f9cb6fd0f5cae",
+      "date": "2025-07-15T18:55:36+10:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "minecraft",
       "size": "60274",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/minecraft.ico",
@@ -6022,6 +6454,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/modo.ico",
       "hash": "2d549ecf85981ea8276b4db696e6cf47b952437e",
       "date": "2022-03-18T09:42:47+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "moho",
+      "size": "60514",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/moho.ico",
+      "hash": "21fb6130e0ca31f1a15aa173ca64dd344a2d73b7",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -6102,6 +6542,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/msi.ico",
       "hash": "b7f2d6775cf051452243fec456565759d9af12a2",
       "date": "2022-01-06T19:21:03+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "mudrost",
+      "size": "61841",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/mudrost.ico",
+      "hash": "4add57729bb7560c9db05a8c0358aad8a7703981",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -6625,6 +7073,38 @@
       "small_svg_url": ""
     },
     {
+      "name": "oculus-1",
+      "size": "55450",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oculus-1.ico",
+      "hash": "c4f96206201f9e49dd80789c8406d71ab5ff1eb3",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "oculus-2",
+      "size": "55129",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oculus-2.ico",
+      "hash": "7cad26b6c4e2eb752011cecc07d0799bafd7d3f7",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "oculus-3",
+      "size": "56197",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oculus-3.ico",
+      "hash": "2a1577f05a49bb4f33c7c76b5fca3d48c7e464c1",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "oculus",
+      "size": "55883",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/oculus.ico",
+      "hash": "c1f0720410689d1a8db5c5f7a07e964d67d38796",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "ollama",
       "size": "61048",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ollama.ico",
@@ -6654,6 +7134,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/open_suse.ico",
       "hash": "b63c6cfe9e9e3b0d0c88d48352eb5163ae43d982",
       "date": "2021-12-15T20:25:13+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "opengl",
+      "size": "69846",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/opengl.ico",
+      "hash": "e0fd8f7f794e1eda3c6279c8c4db2e4efd28c1d5",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -6958,6 +7446,30 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/playstation_1.ico",
       "hash": "5ccc45d4e651ee7d7d9df97e049e418c6811b206",
       "date": "2025-02-19T11:02:11+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "playstation_4",
+      "size": "56677",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/playstation_4.ico",
+      "hash": "8ab3f29200232e9a17d1b9386184e701c81f813b",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "playstation_logo",
+      "size": "57812",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/playstation_logo.ico",
+      "hash": "7251818e74c5d4a4b32185d08ba077bcfeba1f79",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "playstation_vita",
+      "size": "61758",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/playstation_vita.ico",
+      "hash": "c33275b3fbd11ee6cc05ade614318dd33945fddd",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -7569,11 +8081,27 @@
       "small_svg_url": ""
     },
     {
+      "name": "prompt",
+      "size": "66720",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/prompt.ico",
+      "hash": "cc106fd337af634d37ba9f078eaf7eb914c73061",
+      "date": "2025-06-10T01:03:25+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/prompt.svg"
+    },
+    {
       "name": "pug",
       "size": "69484",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/pug.ico",
       "hash": "69e85d29744c13d22a4ba0aed60d7e1caa33f808",
       "date": "2023-12-15T09:04:52+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "python-1",
+      "size": "59675",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/python-1.ico",
+      "hash": "ba202d39fc5f3e27a8916879ad17d6867f720458",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -7630,6 +8158,30 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/qt.ico",
       "hash": "f28ad2f7759a99c1e9175393ca97a10f5ccbba68",
       "date": "2023-12-15T09:04:52+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "quarantine_biohazard",
+      "size": "66805",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/quarantine_biohazard.ico",
+      "hash": "41949ab07807971531970363e60961057da83b24",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "quarantine_radiation",
+      "size": "58303",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/quarantine_radiation.ico",
+      "hash": "00ca022af2a6e118e89ec58401dd93f3e01c5d64",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "quickshare",
+      "size": "59928",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/quickshare.ico",
+      "hash": "842b759792949cf0a48a361efaddae80e67807e6",
+      "date": "2025-07-07T16:12:56+03:00",
       "small_svg_url": ""
     },
     {
@@ -7758,6 +8310,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/realtek.ico",
       "hash": "a25f13e5429851e589417df1058c5b49ee5cfcda",
       "date": "2022-07-08T05:28:19+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "rec_room-1",
+      "size": "61856",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/rec_room-1.ico",
+      "hash": "6eecafe430f4482305b66723e46a3b198e44672b",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "rec_room",
+      "size": "61561",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/rec_room.ico",
+      "hash": "b65e19ea0dcb8e20c1f5a0c71bd9022467111449",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -7929,6 +8497,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "rust-3",
+      "size": "63737",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/rust-3.ico",
+      "hash": "6e9d516a07a88dbda6f6293e1bad707ff1a7596b",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "rust",
       "size": "61231",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/rust.ico",
@@ -8041,6 +8617,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "sebelius",
+      "size": "62284",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/sebelius.ico",
+      "hash": "fb82d5914be3e4b04015ccff0dc3bbadc30fd645",
+      "date": "2025-07-15T20:07:01+10:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "sega",
       "size": "63922",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/sega.ico",
@@ -8137,6 +8721,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "soundcloud-1",
+      "size": "59984",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/soundcloud-1.ico",
+      "hash": "637e5982aacaba5b210e575d1d75eaa4c4b2dce4",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "soundcloud",
+      "size": "62807",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/soundcloud.ico",
+      "hash": "548025abfb5fd22e44f46e5df53f68bbcadea30b",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "spotify-1",
       "size": "63623",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/spotify-1.ico",
@@ -8191,6 +8791,14 @@
       "hash": "c7b508067c6f39ff7f2bd46e3649267664753ab9",
       "date": "2022-02-16T08:47:01+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "stability_matrix",
+      "size": "72698",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/stability_matrix.ico",
+      "hash": "cbdb82e13a927a8580221c6f308d6b356010a9e2",
+      "date": "2025-06-09T01:49:05+02:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/stability_matrix.svg"
     },
     {
       "name": "stackoverflow",
@@ -8652,17 +9260,17 @@
       "name": "ubuntu-1",
       "size": "63437",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ubuntu-1.ico",
-      "hash": "38707b2a608e49adbbda8a8423db26036d62e4ee",
+      "hash": "d6b0c406651a6ca7f2b64ad8e7e86fff866deb0e",
       "date": "2021-12-15T20:25:13+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ubuntu-1.svg"
     },
     {
       "name": "ubuntu",
       "size": "61292",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ubuntu.ico",
-      "hash": "0ea2b80c59142cf0ac10d72e0e924a5ad4fd9e97",
+      "hash": "110177abea13da0a514259b860f5033077b723e7",
       "date": "2021-12-15T20:25:13+07:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/ubuntu.svg"
     },
     {
       "name": "uefn",
@@ -8830,6 +9438,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/uplay.ico",
       "hash": "9c4c65b3f26c0eea3776992b71e9daeaf0fda613",
       "date": "2021-12-06T13:02:31+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "usb-1",
+      "size": "61462",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/usb-1.ico",
+      "hash": "5494e281c42cc5e2c5de7890c23c97985233829b",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "usb",
+      "size": "60810",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/usb.ico",
+      "hash": "390f8073438c829c71d8f183c46ff48c7da7bbdd",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -9033,6 +9657,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "voice_recorder",
+      "size": "59917",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/voice_recorder.ico",
+      "hash": "9ffa458c08f4555e8e30377b2643853010bbab61",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "vrchat",
       "size": "71964",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/vrchat.ico",
@@ -9089,6 +9721,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "vulkan",
+      "size": "64628",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/vulkan.ico",
+      "hash": "c1710d1bcf63b37c422956d39dee823691fb01ad",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "wacom",
       "size": "71195",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/wacom.ico",
@@ -9110,6 +9750,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/waterfox.ico",
       "hash": "7bebaa6c303bee77eed57f830d5e9149062de895",
       "date": "2022-01-25T17:05:06+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "waybackmachine",
+      "size": "61450",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/waybackmachine.ico",
+      "hash": "5ee92cd743496068f65a4e60d306b99f64869f4f",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "waybackmachine_temple",
+      "size": "56127",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/waybackmachine_temple.ico",
+      "hash": "68017ae241e4f1677169cf9e75b7c8499c0ffbf5",
+      "date": "2025-12-30T14:53:01+07:00",
       "small_svg_url": ""
     },
     {
@@ -9633,6 +10289,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "xenia-1",
+      "size": "60678",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xenia-1.ico",
+      "hash": "6d7ac8506597d918b6541d93cea2546274bdb047",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "xenia",
+      "size": "62282",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xenia.ico",
+      "hash": "822f61cef35434c5cc2d72a4bd2e058d4e4b4128",
+      "date": "2025-12-30T14:53:01+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "xiaomi-1",
       "size": "59454",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xiaomi-1.ico",
@@ -9646,6 +10318,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xiaomi.ico",
       "hash": "8a4670813f57a4a904ea3a4343a4081f82e5fb89",
       "date": "2023-11-20T08:41:58+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "xna",
+      "size": "60588",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/xna.ico",
+      "hash": "d5fba78b490177ed210f7483552979d046ad4af8",
+      "date": "2025-12-12T16:45:04+07:00",
       "small_svg_url": ""
     },
     {
