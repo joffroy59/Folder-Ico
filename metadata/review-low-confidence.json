@@ -1,0 +1,962 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-07-30T04:50:29.5923944+00:00",
+    "reviewCount":  191,
+    "icons":  [
+                  {
+                      "name":  "3D_Printer",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "4k_slideshow_maker",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "4k_tokkit",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "AND",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "CCS",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "CorelDRAW_AfterShot",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "Envato",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "GoWin",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "HiSpark",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "Home_Assisant",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "KeePassXC-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "KeePassXC",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "LuckFox",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "MiniWorld_Main",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "NOT",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "OR",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "OpenCV",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "The_Pirate_Bay-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "The_Pirate_Bay",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "VOFA",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "XNOR",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "XOR",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "adobesmile",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "adonis",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "apache_httpd",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "apollo",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "apple_podcasts",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "atom",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "axio_pongo",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "azul",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "azur",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "bat",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "betterncm",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "blackmagic_fusion",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "c-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "c",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "canMV",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "codepen",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "coffeescript",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "corona_sdk",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "crystal",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "cubeIDE",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "cubeMX",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "cypress",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "d3",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "darkbasic",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "death_note",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "devto",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "discordjs",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "dts",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "eatbiscuit",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "eleven_forum",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "elysia",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ember-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ember-2",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ember",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "emotion",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ffmpeg",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "flux",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "forth",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "framework7",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "gba_03",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "gerkin",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "git-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "git",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "gnome",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_family",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_play_games_pc",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_playstore",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "gtk",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "haxe",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "haxe_flixel",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "hbuilderx",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "hbuilderx_text",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "holyc-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "holyc",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "horror",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "hyper",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "hystorical_shogun",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "hystorical_spartan",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "hyver-v",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "idea",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ipsf",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "jest",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "kafka",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "kde",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "keil4",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "keil5",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "knime",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "lit",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "meme",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "miHoYo",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_365-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_365-2",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_365",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_cortana",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_designer",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_games-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_games",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_intune_company_portal-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_intune_company_portal",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_iot_plug_and_play",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_mitra_telp",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_store-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_store",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_stream",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_user-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_user",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_warehouse_management",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "mudrost",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "netease",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "netease_mumu_player_12",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "new-england-patriots",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nexus-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nexus",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nginx",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nim",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nolimits_central",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nolimits_central_modding",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "nyk_nemesis",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ocami",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "opengl",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "origin",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "oven",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "panorama",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "pc_engine-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "pc_engine",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "pkl",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "planet_scale",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "power_shell",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "processing",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "rabbitmq",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "remix",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "replit",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "rexus",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "rocket",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ros",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "scummvm04",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "selenium",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "sketch-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "sketch",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "stackoverflow",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "supercell",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "svg",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "taaghche",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "tencent",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "tim",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "v",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "valve",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "vulkan",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "watch_dogs_2_marcus_laptop",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_anireel",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_creative_center",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_demoair",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_democreator",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_dr.fone",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_dvdcreator",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_edrawinfo",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_edrawmax",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_edrawmind",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_edrawproj",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_filmii",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_filmorago",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_filmorapro",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_filmstock",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_inclowdz",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_mockitt",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_orgcharting",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_pdfelement",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_pdfreader",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_recoverit",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_repairit",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_uniconverter",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_vidair",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "wondershare_videap",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "workers",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "xna",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "yew",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "zx_speccy02",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_sharepoint-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "microsoft_sharepoint",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "ETS2LA",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "lens",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_health",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_keep",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_sites",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_taks",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "google_vids",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "lean-1",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  },
+                  {
+                      "name":  "lean",
+                      "suggestedCategory":  "applications",
+                      "reason":  "No high-confidence rule matched."
+                  }
+              ]
+}
