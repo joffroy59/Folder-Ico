@@ -17,6 +17,238 @@
                 },
     "rules":  [
                   {
+                      "id":  "gaming.minecraft",
+                      "category":  "gaming.minecraft",
+                      "folderAliases":  [
+                                            "minecraft",
+                                            ".minecraft",
+                                            "minecraft worlds",
+                                            "minecraft mods"
+                                        ],
+                      "markerFiles":  [
+                                          "level.dat",
+                                          "server.properties",
+                                          "options.txt"
+                                      ],
+                      "extensions":  [
+                                         ".mcworld",
+                                         ".mcpack",
+                                         ".mcaddon",
+                                         ".jar"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  60,
+                                      "markerFile":  75,
+                                      "dominantExtension":  25,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "minecraft",
+                                              "gaming",
+                                              "mods"
+                                          ]
+                  },
+                  {
+                      "id":  "gaming.pokemon",
+                      "category":  "gaming.pokemon",
+                      "folderAliases":  [
+                                            "pokemon",
+                                            "pokÃ©mon",
+                                            "poke ball",
+                                            "pokeball"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  65,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "pokemon",
+                                              "pokeball",
+                                              "gaming"
+                                          ]
+                  },
+                  {
+                      "id":  "gaming.mods",
+                      "category":  "gaming.mods",
+                      "folderAliases":  [
+                                            "mods",
+                                            "modding",
+                                            "game mods",
+                                            "addons",
+                                            "add-ons",
+                                            "workshop",
+                                            "steam workshop",
+                                            "custom content",
+                                            "nexus mods",
+                                            "vortex"
+                                        ],
+                      "markerFiles":  [
+                                          "modlist.txt",
+                                          "plugins.txt",
+                                          "loadorder.txt"
+                                      ],
+                      "extensions":  [
+                                         ".esp",
+                                         ".esm",
+                                         ".esl",
+                                         ".mod"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  70,
+                                      "markerFile":  85,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "mods",
+                                              "modding",
+                                              "nexus",
+                                              "vortex",
+                                              "workshop"
+                                          ]
+                  },
+                  {
+                      "id":  "entertainment.memes",
+                      "category":  "entertainment.memes",
+                      "folderAliases":  [
+                                            "meme",
+                                            "memes",
+                                            "funny",
+                                            "humor"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  65,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "meme",
+                                              "humor",
+                                              "funny"
+                                          ]
+                  },
+                  {
+                      "id":  "activities.sports",
+                      "category":  "activities.sports",
+                      "folderAliases":  [
+                                            "sport",
+                                            "sports",
+                                            "football",
+                                            "soccer",
+                                            "basketball",
+                                            "workout"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  60,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "sports",
+                                              "fitness",
+                                              "team"
+                                          ]
+                  },
+                  {
+                      "id":  "activities.travel-outdoors",
+                      "category":  "activities.travel-outdoors",
+                      "folderAliases":  [
+                                            "travel",
+                                            "trip",
+                                            "vacation",
+                                            "holiday",
+                                            "mountains",
+                                            "outdoors"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  60,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "travel",
+                                              "outdoors",
+                                              "vacation"
+                                          ]
+                  },
+                  {
+                      "id":  "activities.family-personal",
+                      "category":  "activities.family-personal",
+                      "folderAliases":  [
+                                            "family",
+                                            "personal",
+                                            "home",
+                                            "household"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  55,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "family",
+                                              "personal",
+                                              "home"
+                                          ]
+                  },
+                  {
                       "id":  "development.javascript",
                       "category":  "development.javascript",
                       "folderAliases":  [

@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-07-30T04:50:29.5233936+00:00",
+    "generatedAt":  "2026-07-30T06:52:37.5716522+00:00",
     "source":  "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/Folder11.json",
     "categories":  [
                        {
@@ -232,6 +232,120 @@
                            "description":  "Games, launchers, consoles, emulators, and gaming platforms."
                        },
                        {
+                           "id":  "gaming.games",
+                           "name":  "Games",
+                           "parent":  "gaming",
+                           "description":  "Individual games and game franchises."
+                       },
+                       {
+                           "id":  "gaming.platforms",
+                           "name":  "Gaming Platforms",
+                           "parent":  "gaming",
+                           "description":  "Game stores, publishers, launchers, and online gaming services."
+                       },
+                       {
+                           "id":  "gaming.consoles",
+                           "name":  "Consoles",
+                           "parent":  "gaming",
+                           "description":  "Gaming consoles and console platforms."
+                       },
+                       {
+                           "id":  "gaming.emulators",
+                           "name":  "Emulators",
+                           "parent":  "gaming",
+                           "description":  "Console, arcade, and retro-game emulators."
+                       },
+                       {
+                           "id":  "gaming.mods",
+                           "name":  "Mods \u0026 Modding",
+                           "parent":  "gaming",
+                           "description":  "Game modifications, mod managers, and mod communities."
+                       },
+                       {
+                           "id":  "gaming.minecraft",
+                           "name":  "Minecraft",
+                           "parent":  "gaming.games",
+                           "description":  "Minecraft, mobs, blocks, and related content."
+                       },
+                       {
+                           "id":  "gaming.pokemon",
+                           "name":  "PokÃ©mon",
+                           "parent":  "gaming.games",
+                           "description":  "PokÃ©mon games, PokÃ© Balls, and related content."
+                       },
+                       {
+                           "id":  "entertainment",
+                           "name":  "Entertainment \u0026 Culture",
+                           "parent":  null,
+                           "description":  "Humor, fandom, anime, culture, and entertainment content."
+                       },
+                       {
+                           "id":  "entertainment.memes",
+                           "name":  "Memes \u0026 Humor",
+                           "parent":  "entertainment",
+                           "description":  "Memes, humor, and internet culture."
+                       },
+                       {
+                           "id":  "entertainment.anime-manga",
+                           "name":  "Anime \u0026 Manga",
+                           "parent":  "entertainment",
+                           "description":  "Anime, manga, and related fandoms."
+                       },
+                       {
+                           "id":  "entertainment.fandom",
+                           "name":  "Fandom \u0026 Themes",
+                           "parent":  "entertainment",
+                           "description":  "Fandom, fictional themes, and cultural collections."
+                       },
+                       {
+                           "id":  "activities",
+                           "name":  "Activities \u0026 Lifestyle",
+                           "parent":  null,
+                           "description":  "Sports, travel, health, food, hobbies, and everyday activities."
+                       },
+                       {
+                           "id":  "activities.sports",
+                           "name":  "Sports",
+                           "parent":  "activities",
+                           "description":  "Sports, teams, competitions, and physical activities."
+                       },
+                       {
+                           "id":  "activities.travel-outdoors",
+                           "name":  "Travel \u0026 Outdoors",
+                           "parent":  "activities",
+                           "description":  "Travel, nature, destinations, and outdoor activities."
+                       },
+                       {
+                           "id":  "activities.health-fitness",
+                           "name":  "Health \u0026 Fitness",
+                           "parent":  "activities",
+                           "description":  "Health, wellness, fitness, and medical activities."
+                       },
+                       {
+                           "id":  "activities.food",
+                           "name":  "Food \u0026 Cooking",
+                           "parent":  "activities",
+                           "description":  "Food, cooking, restaurants, and culinary activities."
+                       },
+                       {
+                           "id":  "activities.family-personal",
+                           "name":  "Family \u0026 Personal",
+                           "parent":  "activities",
+                           "description":  "Family, people, personal life, and household activities."
+                       },
+                       {
+                           "id":  "marketplaces",
+                           "name":  "Stores \u0026 Marketplaces",
+                           "parent":  null,
+                           "description":  "Application stores, asset marketplaces, and digital storefronts."
+                       },
+                       {
+                           "id":  "brands",
+                           "name":  "Brands \u0026 Organizations",
+                           "parent":  null,
+                           "description":  "Corporate, organization, and general brand identity icons."
+                       },
+                       {
                            "id":  "design",
                            "name":  "Design",
                            "parent":  null,
@@ -352,6 +466,18 @@
                            "description":  "Learning, science, books, references, and academic tools."
                        },
                        {
+                           "id":  "education.reading",
+                           "name":  "Reading \u0026 Books",
+                           "parent":  "education",
+                           "description":  "Books, reading, libraries, and reference collections."
+                       },
+                       {
+                           "id":  "education.history",
+                           "name":  "History",
+                           "parent":  "education",
+                           "description":  "History, historical figures, cultures, and periods."
+                       },
+                       {
                            "id":  "finance",
                            "name":  "Finance",
                            "parent":  null,
@@ -368,6 +494,12 @@
                            "name":  "Personalization",
                            "parent":  null,
                            "description":  "Fonts, themes, appearance, and desktop customization."
+                       },
+                       {
+                           "id":  "system-tools.home-automation",
+                           "name":  "Home Automation",
+                           "parent":  "system-tools",
+                           "description":  "Smart-home management, automation, and connected devices."
                        },
                        {
                            "id":  "generic",
