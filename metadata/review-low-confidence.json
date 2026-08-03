@@ -1,5 +1,11 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 0,
-  "icons": []
+  "reviewCount": 1,
+  "icons": [
+    {
+      "name": "nextcloud",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    }
+  ]
 }
