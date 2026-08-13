@@ -34292,7 +34292,17 @@
       "hash": "3dcecd050c7de3882e41161d87a3dc049853d5be",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "gate",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_gate-2",
@@ -34304,7 +34314,17 @@
       "hash": "2f31496c4f0d5bc1d60dbd26926427db60517ca8",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "gate",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_gate",
@@ -34316,7 +34336,17 @@
       "hash": "7e80f43872d5274c13ddcb7874c5a5497ef94e26",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "gate",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_pesterchum-1",
@@ -34328,7 +34358,17 @@
       "hash": "9a98f0d60a12b654d3f3996338a393537bf20fbe",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "pesterchum",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_pesterchum-2",
@@ -34340,7 +34380,17 @@
       "hash": "6a91c95c2a990ca59af2d9d4fec75bcedf3c0e8e",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "pesterchum",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_pesterchum",
@@ -34352,7 +34402,17 @@
       "hash": "409609e76996ceadcef5f11b9fd39f7fb781c0bd",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "pesterchum",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_sburb-1",
@@ -34364,7 +34424,17 @@
       "hash": "f1e95569ce348f7033d405d1df4420c44a60afe1",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "sburb",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_sburb-2",
@@ -34376,7 +34446,17 @@
       "hash": "5ab327635d09f5d81f36fd9cc5f7ea2b683f8464",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "sburb",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_sburb_alpha-1",
@@ -34388,7 +34468,18 @@
       "hash": "d77d3585f1ef7df1cc44d3e2db9bc5690de9774f",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "sburb",
+        "alpha",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_sburb_alpha-2",
@@ -34400,7 +34491,18 @@
       "hash": "1aae015e4a4e279d82f060bcc0142fa884c07770",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "sburb",
+        "alpha",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "homestuck_sburb_alpha",
@@ -34412,14 +34514,25 @@
       "hash": "9bdaeca6da353b89975d3ae10660783e970a3395",
       "date": "2026-08-12T17:31:36-07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "homestuck",
+        "sburb",
+        "alpha",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1431,
-    "reviewCount": 1,
+    "currentIconCount": 1442,
+    "reviewCount": 12,
     "categoryCounts": [
       {
         "category": "development",
@@ -34547,6 +34660,10 @@
       },
       {
         "category": "development.css",
+        "count": 12
+      },
+      {
+        "category": "applications",
         "count": 12
       },
       {
@@ -34731,10 +34848,6 @@
       },
       {
         "category": "development.svelte",
-        "count": 1
-      },
-      {
-        "category": "applications",
         "count": 1
       }
     ]
