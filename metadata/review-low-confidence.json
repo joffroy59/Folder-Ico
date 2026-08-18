@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 12,
+  "reviewCount": 18,
   "icons": [
     {
       "name": "nextcloud",
@@ -59,6 +59,36 @@
     },
     {
       "name": "homestuck_sburb_alpha",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "docuseal",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "duolingo",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "metabase",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "mgba",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "ps_remote_play",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "virtual_machine",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }

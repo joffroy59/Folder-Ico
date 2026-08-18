@@ -34537,7 +34537,18 @@
       "hash": "b892b2955238ca040ca3e11d5f546662fedf0f3d",
       "date": "2026-08-18T22:11:10Z",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "media.video",
+      "categories": [
+        "media.video",
+        "media"
+      ],
+      "tags": [
+        "bilibili",
+        "media",
+        "video"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "docuseal",
@@ -34549,7 +34560,16 @@
       "hash": "8c3c4ecf9774cc2d82ebb060c976d7c34845eb68",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "docuseal",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "duolingo",
@@ -34561,7 +34581,16 @@
       "hash": "36d3134d91c539b1d07506988d03bfe11a97b173",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "duolingo",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "metabase",
@@ -34573,7 +34602,16 @@
       "hash": "9ab68c60106dbb6f5c3f5430e98a11a34e22816d",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "metabase",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "mgba",
@@ -34585,7 +34623,16 @@
       "hash": "a757a97a1bb04133eb492490d43e00ce4c24f97e",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "mgba",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "ps_remote_play",
@@ -34597,7 +34644,18 @@
       "hash": "f35f0357596299bdf81e4f730e2c047cf0bb9332",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "ps",
+        "remote",
+        "play",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "virtual_machine",
@@ -34609,7 +34667,17 @@
       "hash": "881f7de26c856f81719f3fd2e2e9125f483905f0",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "virtual",
+        "machine",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "youtube_dl",
@@ -34621,7 +34689,19 @@
       "hash": "e9734c684c86c07fbf94b4265744cfab3287d89a",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "media.video",
+      "categories": [
+        "media.video",
+        "media"
+      ],
+      "tags": [
+        "youtube",
+        "dl",
+        "media",
+        "video"
+      ],
+      "category_source": "rules"
     },
     {
       "name": "youtube_kids",
@@ -34633,14 +34713,26 @@
       "hash": "1dab6b36354e2a4cd6cfd0b8bfcb46ac02db4e82",
       "date": "2026-08-18T23:10:39+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "media.video",
+      "categories": [
+        "media.video",
+        "media"
+      ],
+      "tags": [
+        "youtube",
+        "kids",
+        "media",
+        "video"
+      ],
+      "category_source": "rules"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1442,
-    "reviewCount": 12,
+    "currentIconCount": 1450,
+    "reviewCount": 18,
     "categoryCounts": [
       {
         "category": "development",
@@ -34652,7 +34744,7 @@
       },
       {
         "category": "media.video",
-        "count": 74
+        "count": 76
       },
       {
         "category": "operating-systems",
@@ -34747,6 +34839,10 @@
         "count": 18
       },
       {
+        "category": "applications",
+        "count": 18
+      },
+      {
         "category": "education",
         "count": 17
       },
@@ -34768,10 +34864,6 @@
       },
       {
         "category": "development.css",
-        "count": 12
-      },
-      {
-        "category": "applications",
         "count": 12
       },
       {
