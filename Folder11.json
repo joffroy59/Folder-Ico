@@ -6364,11 +6364,11 @@
       "author_link": "https://github.com/SodaCodeSave",
       "author_profile": "https://avatars.githubusercontent.com/u/175384622?v=4",
       "size": 61366,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bilibili.ico",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bilibili_history_9c2a269ae6a889b49b2493c9c444ac01ed6c3300.ico",
       "hash": "9c2a269ae6a889b49b2493c9c444ac01ed6c3300",
       "date": "2025-02-19T11:02:11+08:00",
       "small_svg_url": "",
-      "is_history": false,
+      "is_history": true,
       "category": "media.video",
       "categories": [
         "media.video",
@@ -34526,6 +34526,114 @@
         "applications"
       ],
       "category_source": "fallback"
+    },
+    {
+      "name": "bilibili",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 61366,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bilibili.ico",
+      "hash": "b892b2955238ca040ca3e11d5f546662fedf0f3d",
+      "date": "2026-08-18T22:11:10Z",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "docuseal",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 62326,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/docuseal.ico",
+      "hash": "8c3c4ecf9774cc2d82ebb060c976d7c34845eb68",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "duolingo",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 66794,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/duolingo.ico",
+      "hash": "36d3134d91c539b1d07506988d03bfe11a97b173",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "metabase",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 64484,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/metabase.ico",
+      "hash": "9ab68c60106dbb6f5c3f5430e98a11a34e22816d",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "mgba",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 60130,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/mgba.ico",
+      "hash": "a757a97a1bb04133eb492490d43e00ce4c24f97e",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "ps_remote_play",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 61443,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/ps_remote_play.ico",
+      "hash": "f35f0357596299bdf81e4f730e2c047cf0bb9332",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "virtual_machine",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 54974,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/virtual_machine.ico",
+      "hash": "881f7de26c856f81719f3fd2e2e9125f483905f0",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "youtube_dl",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 59086,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/youtube_dl.ico",
+      "hash": "e9734c684c86c07fbf94b4265744cfab3287d89a",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
+    },
+    {
+      "name": "youtube_kids",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 60830,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/youtube_kids.ico",
+      "hash": "1dab6b36354e2a4cd6cfd0b8bfcb46ac02db4e82",
+      "date": "2026-08-18T23:10:39+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
