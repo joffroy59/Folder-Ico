@@ -34726,6 +34726,18 @@
         "video"
       ],
       "category_source": "rules"
+    },
+    {
+      "name": "github_unicorn!",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 71309,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/github_unicorn!.ico",
+      "hash": "e5fa65e11e685fc4f98dc0ded622cbba542ca677",
+      "date": "2026-08-19T05:49:42+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
