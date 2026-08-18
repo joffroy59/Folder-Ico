@@ -6359,29 +6359,6 @@
       "category_source": "rules"
     },
     {
-      "name": "bilibili",
-      "author": "SodaCodeSave",
-      "author_link": "https://github.com/SodaCodeSave",
-      "author_profile": "https://avatars.githubusercontent.com/u/175384622?v=4",
-      "size": 61366,
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bilibili_history_9c2a269ae6a889b49b2493c9c444ac01ed6c3300.ico",
-      "hash": "9c2a269ae6a889b49b2493c9c444ac01ed6c3300",
-      "date": "2025-02-19T11:02:11+08:00",
-      "small_svg_url": "",
-      "is_history": true,
-      "category": "media.video",
-      "categories": [
-        "media.video",
-        "media"
-      ],
-      "tags": [
-        "bilibili",
-        "media",
-        "video"
-      ],
-      "category_source": "rules"
-    },
-    {
       "name": "bilibili_white",
       "author": "SodaCodeSave",
       "author_link": "https://github.com/SodaCodeSave",
@@ -34529,8 +34506,8 @@
     },
     {
       "name": "bilibili",
-      "author": "JangOetama",
-      "author_link": "https://github.com/JangOetama",
+      "author": "SodaCodeSave",
+      "author_link": "https://github.com/SodaCodeSave",
       "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
       "size": 61366,
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bilibili.ico",
