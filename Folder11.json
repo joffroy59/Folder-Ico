@@ -34737,13 +34737,24 @@
       "hash": "a6b1297c28290d80e45e53a920dcb319979839da",
       "date": "2026-08-19T05:19:10+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "media.video",
+      "categories": [
+        "media.video",
+        "media"
+      ],
+      "tags": [
+        "bilibili",
+        "media",
+        "video"
+      ],
+      "category_source": "rules"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1450,
+    "currentIconCount": 1451,
     "reviewCount": 18,
     "categoryCounts": [
       {
@@ -34756,7 +34767,7 @@
       },
       {
         "category": "media.video",
-        "count": 76
+        "count": 77
       },
       {
         "category": "operating-systems",
