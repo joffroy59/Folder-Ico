@@ -34726,6 +34726,18 @@
         "video"
       ],
       "category_source": "rules"
+    },
+    {
+      "name": "bilibili-2",
+      "author": "JangOetama",
+      "author_link": "https://github.com/JangOetama",
+      "author_profile": "https://avatars.githubusercontent.com/u/46255322?v=4",
+      "size": 68115,
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/bilibili-2.ico",
+      "hash": "a6b1297c28290d80e45e53a920dcb319979839da",
+      "date": "2026-08-19T05:19:10+07:00",
+      "small_svg_url": "",
+      "is_history": false
     }
   ],
   "categoryMetadata": {
