@@ -34737,18 +34737,28 @@
       "hash": "e5fa65e11e685fc4f98dc0ded622cbba542ca677",
       "date": "2026-08-19T05:49:42+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "development",
+      "categories": [
+        "development"
+      ],
+      "tags": [
+        "github",
+        "unicorn!",
+        "development"
+      ],
+      "category_source": "rules"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1451,
+    "currentIconCount": 1452,
     "reviewCount": 18,
     "categoryCounts": [
       {
         "category": "development",
-        "count": 147
+        "count": 148
       },
       {
         "category": "design",
