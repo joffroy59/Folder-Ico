@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewCount": 18,
+  "reviewCount": 26,
   "icons": [
     {
       "name": "nextcloud",
@@ -89,6 +89,46 @@
     },
     {
       "name": "virtual_machine",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-2",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-3",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-4",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-5",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-6",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-7",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel-8",
+      "suggestedCategory": "applications",
+      "reason": "No deterministic rule or manual override matched."
+    },
+    {
+      "name": "google_pixel",
       "suggestedCategory": "applications",
       "reason": "No deterministic rule or manual override matched."
     }

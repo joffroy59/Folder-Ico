@@ -34759,7 +34759,17 @@
       "hash": "1a4c77728bcbe978bbe9c7fe909221ac2b1fa14f",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel-3",
@@ -34771,7 +34781,17 @@
       "hash": "a09236d7444891bbdd62bb4f4790e5a2f045f4da",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel-4",
@@ -34783,7 +34803,17 @@
       "hash": "564ae39022193bed59a141165adce01fb5fffa3b",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel-5",
@@ -34795,7 +34825,17 @@
       "hash": "c0723c23f29ef9460535a206514376c50556ac63",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel-6",
@@ -34807,7 +34847,17 @@
       "hash": "3929f014032a6b4900d01c27907a5436da753337",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel-7",
@@ -34819,7 +34869,17 @@
       "hash": "05a7706f43ef30e617d028306748195283e4c826",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel-8",
@@ -34831,7 +34891,17 @@
       "hash": "21172af5a40ca8a38fbfde876789f55837830130",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     },
     {
       "name": "google_pixel",
@@ -34843,14 +34913,24 @@
       "hash": "0ca9725de5646fb6591806876ba5df68aaca4b65",
       "date": "2026-08-26T16:29:53+07:00",
       "small_svg_url": "",
-      "is_history": false
+      "is_history": false,
+      "category": "applications",
+      "categories": [
+        "applications"
+      ],
+      "tags": [
+        "google",
+        "pixel",
+        "applications"
+      ],
+      "category_source": "fallback"
     }
   ],
   "categoryMetadata": {
     "schemaVersion": 1,
     "method": "deterministic-rules",
-    "currentIconCount": 1452,
-    "reviewCount": 18,
+    "currentIconCount": 1460,
+    "reviewCount": 26,
     "categoryCounts": [
       {
         "category": "development",
@@ -34917,6 +34997,10 @@
         "count": 31
       },
       {
+        "category": "applications",
+        "count": 26
+      },
+      {
         "category": "productivity.documents",
         "count": 25
       },
@@ -34954,10 +35038,6 @@
       },
       {
         "category": "development.javascript",
-        "count": 18
-      },
-      {
-        "category": "applications",
         "count": 18
       },
       {
