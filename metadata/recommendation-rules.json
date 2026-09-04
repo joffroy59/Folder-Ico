@@ -1,0 +1,1442 @@
+{
+    "schemaVersion":  1,
+    "privacy":  {
+                    "localOnly":  true,
+                    "readUserDocumentContents":  false,
+                    "maxDepth":  1,
+                    "maxSampledFiles":  500,
+                    "dominantTypeThreshold":  0.65,
+                    "manifestInspection":  {
+                                               "enabled":  true,
+                                               "localOnly":  true,
+                                               "maxFileBytes":  262144,
+                                               "allowList":  [
+                                                                 "package.json"
+                                                             ]
+                                           }
+                },
+    "rules":  [
+                  {
+                      "id":  "gaming.minecraft",
+                      "category":  "gaming.minecraft",
+                      "folderAliases":  [
+                                            "minecraft",
+                                            ".minecraft",
+                                            "minecraft worlds",
+                                            "minecraft mods"
+                                        ],
+                      "markerFiles":  [
+                                          "level.dat",
+                                          "server.properties",
+                                          "options.txt"
+                                      ],
+                      "extensions":  [
+                                         ".mcworld",
+                                         ".mcpack",
+                                         ".mcaddon",
+                                         ".jar"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  60,
+                                      "markerFile":  75,
+                                      "dominantExtension":  25,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "minecraft",
+                                              "gaming",
+                                              "mods"
+                                          ]
+                  },
+                  {
+                      "id":  "gaming.pokemon",
+                      "category":  "gaming.pokemon",
+                      "folderAliases":  [
+                                            "pokemon",
+                                            "pokÃ©mon",
+                                            "poke ball",
+                                            "pokeball"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  65,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "pokemon",
+                                              "pokeball",
+                                              "gaming"
+                                          ]
+                  },
+                  {
+                      "id":  "gaming.mods",
+                      "category":  "gaming.mods",
+                      "folderAliases":  [
+                                            "mods",
+                                            "modding",
+                                            "game mods",
+                                            "addons",
+                                            "add-ons",
+                                            "workshop",
+                                            "steam workshop",
+                                            "custom content",
+                                            "nexus mods",
+                                            "vortex"
+                                        ],
+                      "markerFiles":  [
+                                          "modlist.txt",
+                                          "plugins.txt",
+                                          "loadorder.txt"
+                                      ],
+                      "extensions":  [
+                                         ".esp",
+                                         ".esm",
+                                         ".esl",
+                                         ".mod"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  70,
+                                      "markerFile":  85,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "mods",
+                                              "modding",
+                                              "nexus",
+                                              "vortex",
+                                              "workshop"
+                                          ]
+                  },
+                  {
+                      "id":  "entertainment.memes",
+                      "category":  "entertainment.memes",
+                      "folderAliases":  [
+                                            "meme",
+                                            "memes",
+                                            "funny",
+                                            "humor"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  65,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "meme",
+                                              "humor",
+                                              "funny"
+                                          ]
+                  },
+                  {
+                      "id":  "activities.sports",
+                      "category":  "activities.sports",
+                      "folderAliases":  [
+                                            "sport",
+                                            "sports",
+                                            "football",
+                                            "soccer",
+                                            "basketball",
+                                            "workout"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  60,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "sports",
+                                              "fitness",
+                                              "team"
+                                          ]
+                  },
+                  {
+                      "id":  "activities.travel-outdoors",
+                      "category":  "activities.travel-outdoors",
+                      "folderAliases":  [
+                                            "travel",
+                                            "trip",
+                                            "vacation",
+                                            "holiday",
+                                            "mountains",
+                                            "outdoors"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  60,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "travel",
+                                              "outdoors",
+                                              "vacation"
+                                          ]
+                  },
+                  {
+                      "id":  "activities.family-personal",
+                      "category":  "activities.family-personal",
+                      "folderAliases":  [
+                                            "family",
+                                            "personal",
+                                            "home",
+                                            "household"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  55,
+                                      "markerFile":  0,
+                                      "dominantExtension":  0,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "family",
+                                              "personal",
+                                              "home"
+                                          ]
+                  },
+                  {
+                      "id":  "development.javascript",
+                      "category":  "development.javascript",
+                      "folderAliases":  [
+                                            "javascript",
+                                            "js",
+                                            "web",
+                                            "frontend",
+                                            "backend"
+                                        ],
+                      "markerFiles":  [
+                                          "package.json",
+                                          "*.config.js",
+                                          "*.config.mjs"
+                                      ],
+                      "extensions":  [
+                                         ".js",
+                                         ".jsx",
+                                         ".mjs",
+                                         ".cjs"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  45,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "javascript",
+                                              "nodejs",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.typescript",
+                      "category":  "development.typescript",
+                      "folderAliases":  [
+                                            "typescript",
+                                            "ts",
+                                            "frontend",
+                                            "backend"
+                                        ],
+                      "markerFiles":  [
+                                          "tsconfig.json",
+                                          "*.config.ts"
+                                      ],
+                      "extensions":  [
+                                         ".ts",
+                                         ".tsx",
+                                         ".mts",
+                                         ".cts"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  60,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "typescript",
+                                              "javascript",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.react",
+                      "category":  "development.react",
+                      "folderAliases":  [
+                                            "react",
+                                            "reactjs",
+                                            "next",
+                                            "nextjs"
+                                        ],
+                      "markerFiles":  [
+                                          "next.config.js",
+                                          "next.config.mjs",
+                                          "next.config.ts"
+                                      ],
+                      "extensions":  [
+                                         ".jsx",
+                                         ".tsx"
+                                     ],
+                      "manifestMatches":  [
+                                              {
+                                                  "file":  "package.json",
+                                                  "jsonPaths":  [
+                                                                    "dependencies.react",
+                                                                    "devDependencies.react"
+                                                                ]
+                                              }
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  65,
+                                      "dominantExtension":  20,
+                                      "manifest":  75
+                                  },
+                      "recommendedTags":  [
+                                              "react",
+                                              "nextjs",
+                                              "javascript",
+                                              "typescript"
+                                          ]
+                  },
+                  {
+                      "id":  "development.vue",
+                      "category":  "development.vue",
+                      "folderAliases":  [
+                                            "vue",
+                                            "vuejs",
+                                            "nuxt",
+                                            "nuxtjs"
+                                        ],
+                      "markerFiles":  [
+                                          "nuxt.config.js",
+                                          "nuxt.config.ts",
+                                          "vue.config.js"
+                                      ],
+                      "extensions":  [
+                                         ".vue"
+                                     ],
+                      "manifestMatches":  [
+                                              {
+                                                  "file":  "package.json",
+                                                  "jsonPaths":  [
+                                                                    "dependencies.vue",
+                                                                    "devDependencies.vue"
+                                                                ]
+                                              }
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  65,
+                                      "dominantExtension":  55,
+                                      "manifest":  75
+                                  },
+                      "recommendedTags":  [
+                                              "vue",
+                                              "nuxtjs",
+                                              "javascript",
+                                              "typescript"
+                                          ]
+                  },
+                  {
+                      "id":  "development.angular",
+                      "category":  "development.angular",
+                      "folderAliases":  [
+                                            "angular"
+                                        ],
+                      "markerFiles":  [
+                                          "angular.json"
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+                                              {
+                                                  "file":  "package.json",
+                                                  "jsonPaths":  [
+                                                                    "dependencies.@angular/core",
+                                                                    "devDependencies.@angular/core"
+                                                                ]
+                                              }
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  75,
+                                      "dominantExtension":  0,
+                                      "manifest":  75
+                                  },
+                      "recommendedTags":  [
+                                              "angular",
+                                              "typescript",
+                                              "javascript"
+                                          ]
+                  },
+                  {
+                      "id":  "development.svelte",
+                      "category":  "development.svelte",
+                      "folderAliases":  [
+                                            "svelte",
+                                            "sveltekit"
+                                        ],
+                      "markerFiles":  [
+                                          "svelte.config.js"
+                                      ],
+                      "extensions":  [
+                                         ".svelte"
+                                     ],
+                      "manifestMatches":  [
+                                              {
+                                                  "file":  "package.json",
+                                                  "jsonPaths":  [
+                                                                    "dependencies.svelte",
+                                                                    "devDependencies.svelte"
+                                                                ]
+                                              }
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  65,
+                                      "dominantExtension":  55,
+                                      "manifest":  75
+                                  },
+                      "recommendedTags":  [
+                                              "svelte",
+                                              "sveltekit",
+                                              "javascript",
+                                              "typescript"
+                                          ]
+                  },
+                  {
+                      "id":  "development.dotnet",
+                      "category":  "development.dotnet",
+                      "folderAliases":  [
+                                            "code",
+                                            "source",
+                                            "src",
+                                            "project",
+                                            "projects",
+                                            "repository",
+                                            "repos",
+                                            "dotnet",
+                                            "csharp"
+                                        ],
+                      "markerFiles":  [
+                                          "*.sln",
+                                          "*.csproj",
+                                          "*.fsproj",
+                                          "*.vbproj",
+                                          "global.json"
+                                      ],
+                      "extensions":  [
+                                         ".cs",
+                                         ".fs",
+                                         ".vb"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  65,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "visual-studio",
+                                              "dotnet",
+                                              "csharp",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.nodejs",
+                      "category":  "development.nodejs",
+                      "folderAliases":  [
+                                            "node",
+                                            "nodejs",
+                                            "npm",
+                                            "server",
+                                            "backend"
+                                        ],
+                      "markerFiles":  [
+                                          "package.json",
+                                          "package-lock.json",
+                                          "pnpm-lock.yaml",
+                                          "yarn.lock"
+                                      ],
+                      "extensions":  [
+
+                                     ],
+                      "manifestMatches":  [
+                                              {
+                                                  "file":  "package.json",
+                                                  "jsonPaths":  [
+                                                                    "engines.node"
+                                                                ]
+                                              }
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  45,
+                                      "dominantExtension":  0,
+                                      "manifest":  70
+                                  },
+                      "recommendedTags":  [
+                                              "nodejs",
+                                              "javascript",
+                                              "typescript",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.python",
+                      "category":  "development.python",
+                      "folderAliases":  [
+                                            "python",
+                                            "django",
+                                            "flask",
+                                            "notebook",
+                                            "machine learning"
+                                        ],
+                      "markerFiles":  [
+                                          "pyproject.toml",
+                                          "requirements.txt",
+                                          "Pipfile",
+                                          "manage.py"
+                                      ],
+                      "extensions":  [
+                                         ".py",
+                                         ".ipynb"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  65,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "python",
+                                              "pycharm",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.java",
+                      "category":  "development.java",
+                      "folderAliases":  [
+                                            "java",
+                                            "spring",
+                                            "gradle",
+                                            "maven"
+                                        ],
+                      "markerFiles":  [
+                                          "pom.xml",
+                                          "build.gradle",
+                                          "build.gradle.kts",
+                                          "settings.gradle"
+                                      ],
+                      "extensions":  [
+                                         ".java",
+                                         ".jar"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  65,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "java",
+                                              "spring",
+                                              "intellij",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.cpp",
+                      "category":  "development.cpp",
+                      "folderAliases":  [
+                                            "c",
+                                            "cpp",
+                                            "cplusplus",
+                                            "native"
+                                        ],
+                      "markerFiles":  [
+                                          "CMakeLists.txt",
+                                          "Makefile",
+                                          "*.vcxproj"
+                                      ],
+                      "extensions":  [
+                                         ".c",
+                                         ".h",
+                                         ".cpp",
+                                         ".cxx",
+                                         ".hpp"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "cpp",
+                                              "cplusplus",
+                                              "cmake",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.go",
+                      "category":  "development.go",
+                      "folderAliases":  [
+                                            "go",
+                                            "golang"
+                                        ],
+                      "markerFiles":  [
+                                          "go.mod",
+                                          "go.sum"
+                                      ],
+                      "extensions":  [
+                                         ".go"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  70,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "golang",
+                                              "go",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.rust",
+                      "category":  "development.rust",
+                      "folderAliases":  [
+                                            "rust",
+                                            "cargo"
+                                        ],
+                      "markerFiles":  [
+                                          "Cargo.toml",
+                                          "Cargo.lock"
+                                      ],
+                      "extensions":  [
+                                         ".rs"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  70,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "rust",
+                                              "cargo",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "development.php",
+                      "category":  "development.php",
+                      "folderAliases":  [
+                                            "php",
+                                            "laravel",
+                                            "symfony",
+                                            "wordpress"
+                                        ],
+                      "markerFiles":  [
+                                          "composer.json",
+                                          "artisan",
+                                          "wp-config.php"
+                                      ],
+                      "extensions":  [
+                                         ".php"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  40,
+                                      "markerFile":  65,
+                                      "dominantExtension":  45,
+                                      "manifest":  0
+                                  },
+                      "recommendedTags":  [
+                                              "php",
+                                              "laravel",
+                                              "code"
+                                          ]
+                  },
+                  {
+                      "id":  "gaming",
+                      "category":  "gaming",
+                      "folderAliases":  [
+                                            "game",
+                                            "games",
+                                            "gaming",
+                                            "steam",
+                                            "save",
+                                            "saves",
+                                            "mods"
+                                        ],
+                      "markerFiles":  [
+                                          "steam_appid.txt",
+                                          "appmanifest_*.acf",
+                                          "*.sav"
+                                      ],
+                      "extensions":  [
+                                         ".sav",
+                                         ".rom",
+                                         ".iso"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  60,
+                                      "dominantExtension":  20
+                                  },
+                      "recommendedTags":  [
+                                              "gaming",
+                                              "steam",
+                                              "game"
+                                          ]
+                  },
+                  {
+                      "id":  "media.photos",
+                      "category":  "media.photos",
+                      "folderAliases":  [
+                                            "photo",
+                                            "photos",
+                                            "picture",
+                                            "pictures",
+                                            "images",
+                                            "gallery",
+                                            "camera",
+                                            "vacation",
+                                            "holiday"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".jpg",
+                                         ".jpeg",
+                                         ".png",
+                                         ".gif",
+                                         ".webp",
+                                         ".heic",
+                                         ".raw",
+                                         ".dng"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  0,
+                                      "dominantExtension":  45
+                                  },
+                      "recommendedTags":  [
+                                              "photo",
+                                              "gallery",
+                                              "camera"
+                                          ]
+                  },
+                  {
+                      "id":  "media.video",
+                      "category":  "media.video",
+                      "folderAliases":  [
+                                            "video",
+                                            "videos",
+                                            "movie",
+                                            "movies",
+                                            "film",
+                                            "recording",
+                                            "recordings"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".mp4",
+                                         ".mkv",
+                                         ".mov",
+                                         ".avi",
+                                         ".webm",
+                                         ".m4v"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  0,
+                                      "dominantExtension":  45
+                                  },
+                      "recommendedTags":  [
+                                              "video",
+                                              "movie",
+                                              "camera"
+                                          ]
+                  },
+                  {
+                      "id":  "media.audio",
+                      "category":  "media.audio",
+                      "folderAliases":  [
+                                            "audio",
+                                            "music",
+                                            "song",
+                                            "songs",
+                                            "podcast",
+                                            "recordings"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".mp3",
+                                         ".flac",
+                                         ".wav",
+                                         ".m4a",
+                                         ".aac",
+                                         ".ogg"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  0,
+                                      "dominantExtension":  45
+                                  },
+                      "recommendedTags":  [
+                                              "music",
+                                              "audio",
+                                              "sound"
+                                          ]
+                  },
+                  {
+                      "id":  "productivity.documents",
+                      "category":  "productivity",
+                      "folderAliases":  [
+                                            "document",
+                                            "documents",
+                                            "work",
+                                            "office",
+                                            "reports",
+                                            "notes"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".doc",
+                                         ".docx",
+                                         ".xls",
+                                         ".xlsx",
+                                         ".ppt",
+                                         ".pptx",
+                                         ".pdf",
+                                         ".txt",
+                                         ".md"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  0,
+                                      "dominantExtension":  40
+                                  },
+                      "recommendedTags":  [
+                                              "documents",
+                                              "office",
+                                              "work"
+                                          ]
+                  },
+                  {
+                      "id":  "design",
+                      "category":  "design",
+                      "folderAliases":  [
+                                            "design",
+                                            "designs",
+                                            "assets",
+                                            "creative",
+                                            "artwork",
+                                            "illustration"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".psd",
+                                         ".ai",
+                                         ".afdesign",
+                                         ".fig",
+                                         ".blend",
+                                         ".obj",
+                                         ".fbx",
+                                         ".dwg"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  0,
+                                      "dominantExtension":  45
+                                  },
+                      "recommendedTags":  [
+                                              "design",
+                                              "creative",
+                                              "graphics"
+                                          ]
+                  },
+                  {
+                      "id":  "archive-backup",
+                      "category":  "archive-backup",
+                      "folderAliases":  [
+                                            "archive",
+                                            "archives",
+                                            "backup",
+                                            "backups",
+                                            "compressed"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".zip",
+                                         ".7z",
+                                         ".rar",
+                                         ".tar",
+                                         ".gz",
+                                         ".bak"
+                                     ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  45,
+                                      "markerFile":  0,
+                                      "dominantExtension":  45
+                                  },
+                      "recommendedTags":  [
+                                              "archive",
+                                              "backup",
+                                              "compressed"
+                                          ]
+                  },
+                  {
+                      "id":  "development.html",
+                      "category":  "development.html",
+                      "folderAliases":  [
+                                            "html",
+                                            "website",
+                                            "web"
+                                        ],
+                      "markerFiles":  [
+                                          "index.html"
+                                      ],
+                      "extensions":  [
+                                         ".html",
+                                         ".htm"
+                                     ],
+                      "recommendedTags":  [
+                                              "html",
+                                              "web",
+                                              "browser"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.css",
+                      "category":  "development.css",
+                      "folderAliases":  [
+                                            "css",
+                                            "styles",
+                                            "stylesheet"
+                                        ],
+                      "markerFiles":  [
+                                          "tailwind.config.js",
+                                          "postcss.config.js"
+                                      ],
+                      "extensions":  [
+                                         ".css",
+                                         ".scss",
+                                         ".sass",
+                                         ".less"
+                                     ],
+                      "recommendedTags":  [
+                                              "css",
+                                              "sass",
+                                              "tailwind"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.kotlin",
+                      "category":  "development.kotlin",
+                      "folderAliases":  [
+                                            "kotlin",
+                                            "android"
+                                        ],
+                      "markerFiles":  [
+                                          "build.gradle.kts"
+                                      ],
+                      "extensions":  [
+                                         ".kt",
+                                         ".kts"
+                                     ],
+                      "recommendedTags":  [
+                                              "kotlin",
+                                              "android",
+                                              "intellij"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.swift",
+                      "category":  "development.swift",
+                      "folderAliases":  [
+                                            "swift",
+                                            "ios",
+                                            "macos"
+                                        ],
+                      "markerFiles":  [
+                                          "Package.swift",
+                                          "*.xcodeproj"
+                                      ],
+                      "extensions":  [
+                                         ".swift"
+                                     ],
+                      "recommendedTags":  [
+                                              "swift",
+                                              "xcode",
+                                              "apple"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.dart",
+                      "category":  "development.dart",
+                      "folderAliases":  [
+                                            "dart",
+                                            "flutter"
+                                        ],
+                      "markerFiles":  [
+                                          "pubspec.yaml"
+                                      ],
+                      "extensions":  [
+                                         ".dart"
+                                     ],
+                      "recommendedTags":  [
+                                              "dart",
+                                              "flutter",
+                                              "mobile"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.ruby",
+                      "category":  "development.ruby",
+                      "folderAliases":  [
+                                            "ruby",
+                                            "rails"
+                                        ],
+                      "markerFiles":  [
+                                          "Gemfile",
+                                          "Rakefile"
+                                      ],
+                      "extensions":  [
+                                         ".rb"
+                                     ],
+                      "recommendedTags":  [
+                                              "ruby",
+                                              "rails",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.scala",
+                      "category":  "development.scala",
+                      "folderAliases":  [
+                                            "scala"
+                                        ],
+                      "markerFiles":  [
+                                          "build.sbt"
+                                      ],
+                      "extensions":  [
+                                         ".scala",
+                                         ".sc"
+                                     ],
+                      "recommendedTags":  [
+                                              "scala",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.clojure",
+                      "category":  "development.clojure",
+                      "folderAliases":  [
+                                            "clojure"
+                                        ],
+                      "markerFiles":  [
+                                          "deps.edn",
+                                          "project.clj"
+                                      ],
+                      "extensions":  [
+                                         ".clj",
+                                         ".cljs",
+                                         ".cljc"
+                                     ],
+                      "recommendedTags":  [
+                                              "clojure",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.elixir",
+                      "category":  "development.elixir",
+                      "folderAliases":  [
+                                            "elixir",
+                                            "phoenix"
+                                        ],
+                      "markerFiles":  [
+                                          "mix.exs"
+                                      ],
+                      "extensions":  [
+                                         ".ex",
+                                         ".exs"
+                                     ],
+                      "recommendedTags":  [
+                                              "elixir",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.haskell",
+                      "category":  "development.haskell",
+                      "folderAliases":  [
+                                            "haskell"
+                                        ],
+                      "markerFiles":  [
+                                          "stack.yaml",
+                                          "cabal.project"
+                                      ],
+                      "extensions":  [
+                                         ".hs",
+                                         ".lhs"
+                                     ],
+                      "recommendedTags":  [
+                                              "haskell",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.lua",
+                      "category":  "development.lua",
+                      "folderAliases":  [
+                                            "lua"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".lua"
+                                     ],
+                      "recommendedTags":  [
+                                              "lua",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.perl",
+                      "category":  "development.perl",
+                      "folderAliases":  [
+                                            "perl"
+                                        ],
+                      "markerFiles":  [
+                                          "Makefile.PL",
+                                          "Build.PL"
+                                      ],
+                      "extensions":  [
+                                         ".pl",
+                                         ".pm"
+                                     ],
+                      "recommendedTags":  [
+                                              "perl",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.fortran",
+                      "category":  "development.fortran",
+                      "folderAliases":  [
+                                            "fortran"
+                                        ],
+                      "markerFiles":  [
+
+                                      ],
+                      "extensions":  [
+                                         ".f",
+                                         ".f90",
+                                         ".f95",
+                                         ".for"
+                                     ],
+                      "recommendedTags":  [
+                                              "fortran",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.julia",
+                      "category":  "development.julia",
+                      "folderAliases":  [
+                                            "julia"
+                                        ],
+                      "markerFiles":  [
+                                          "Project.toml",
+                                          "Manifest.toml"
+                                      ],
+                      "extensions":  [
+                                         ".jl"
+                                     ],
+                      "recommendedTags":  [
+                                              "julia",
+                                              "code"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  },
+                  {
+                      "id":  "development.r",
+                      "category":  "development.r",
+                      "folderAliases":  [
+                                            "r",
+                                            "rstats",
+                                            "statistics"
+                                        ],
+                      "markerFiles":  [
+                                          "DESCRIPTION",
+                                          "*.Rproj"
+                                      ],
+                      "extensions":  [
+                                         ".r",
+                                         ".rmd"
+                                     ],
+                      "recommendedTags":  [
+                                              "r",
+                                              "statistics",
+                                              "data"
+                                          ],
+                      "manifestMatches":  [
+
+                                          ],
+                      "weights":  {
+                                      "folderName":  35,
+                                      "markerFile":  65,
+                                      "dominantExtension":  50,
+                                      "manifest":  0
+                                  }
+                  }
+              ]
+}
