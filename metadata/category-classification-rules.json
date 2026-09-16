@@ -1,0 +1,345 @@
+{
+    "schemaVersion":  1,
+    "fallbackCategory":  "applications",
+    "manualOverrides":  {
+
+                        },
+    "rules":  [
+                  {
+                      "category":  "gaming.minecraft",
+                      "pattern":  "(?i)\\b(minecraft)\\b"
+                  },
+                  {
+                      "category":  "gaming.pokemon",
+                      "pattern":  "(?i)\\b(pokemon)\\b"
+                  },
+                  {
+                      "category":  "gaming.platforms",
+                      "pattern":  "(?i)\\b(steam|epic|gog|gamejolt|battle\\s*net|bethesda|blizzard|electronic\\s*arts|ea|ubisoft|uplay|riot\\s*games|rockstar|humble|itch\\s*io|prime\\s*gaming|wegame|kurogame|mihoyo|mi\\s*ho\\s*yo|netease\\s*fever\\s*games|origin|supercell|valve|google\\s*play\\s*games|apple\\s*arcade|microsoft\\s*games)\\b"
+                  },
+                  {
+                      "category":  "gaming.consoles",
+                      "pattern":  "(?i)\\b(nintendo|playstation|xbox|sega|gameboy|gamecube|wiiu?|switch|super\\s*nintendo|pc\\s*engine|gba)\\b"
+                  },
+                  {
+                      "category":  "gaming.emulators",
+                      "pattern":  "(?i)\\b(mame|melonds|rpcs3|scummvm\\d*|xenia|dosbox|mumu\\s*player|zx\\s*speccy\\d*)\\b"
+                  },
+                  {
+                      "category":  "gaming.mods",
+                      "pattern":  "(?i)\\b(moddb|game[\\s_-]*mods?|modding|nexus(?:[\\s_-]*mods)?|vortex|steam[\\s_-]*workshop)\\b"
+                  },
+                  {
+                      "category":  "gaming.games",
+                      "pattern":  "(?i)(^ets2\\s*la$|\\b(miniworld|mini\\s*world|brawl\\s*stars|clash\\s*royale|cyberpunk|dungeons\\s*and\\s*dragons|endfield|escape\\s*from\\s*tarkov|fallout|fortnite|forza|genshin|osu|paradox|rec\\s*room|tes\\s*oblivion|tes\\s*skyrim|witcher|vrchat|watch\\s*dogs|ets2\\s*la|nolimits\\s*central|chess)\\b)"
+                  },
+                  {
+                      "category":  "entertainment.memes",
+                      "pattern":  "(?i)\\b(meme|9gag|pewdiepie|eatbiscuit)\\b"
+                  },
+                  {
+                      "category":  "entertainment.anime-manga",
+                      "pattern":  "(?i)\\b(death\\s*note|anime|manga)\\b"
+                  },
+                  {
+                      "category":  "entertainment.fandom",
+                      "pattern":  "(?i)\\b(horror|nyk\\s*nemesis|hystorical\\s*shogun|hystorical\\s*spartan)\\b"
+                  },
+                  {
+                      "category":  "activities.sports",
+                      "pattern":  "(?i)\\b(new\\s*england\\s*patriots|sports?|football|basketball|fitness)\\b"
+                  },
+                  {
+                      "category":  "activities.travel-outdoors",
+                      "pattern":  "(?i)\\b(mountains?|travel|outdoors?|vacation|holiday)\\b"
+                  },
+                  {
+                      "category":  "activities.health-fitness",
+                      "pattern":  "(?i)\\b(health|wellness|benessere|medical)\\b"
+                  },
+                  {
+                      "category":  "activities.food",
+                      "pattern":  "(?i)\\b(food|cooking|restaurant|horeca)\\b"
+                  },
+                  {
+                      "category":  "activities.family-personal",
+                      "pattern":  "(?i)\\b(google\\s*family|family|personal|household)\\b"
+                  },
+                  {
+                      "category":  "marketplaces",
+                      "pattern":  "(?i)\\b(envato|microsoft\\s*store|google\\s*playstore|google\\s*play\\s*store|app\\s*store|marketplace)\\b"
+                  },
+                  {
+                      "category":  "system-tools.home-automation",
+                      "pattern":  "(?i)\\b(home\\s*assistant|home\\s*assistan[tc]|smart\\s*home)\\b"
+                  },
+                  {
+                      "category":  "education.reading",
+                      "pattern":  "(?i)\\b(books?|calibre|foliate|taaghche|reading|dictionary|zotero)\\b"
+                  },
+                  {
+                      "category":  "education.history",
+                      "pattern":  "(?i)\\b(history|historical|hystorical|shogun|spartan)\\b"
+                  },
+                  {
+                      "category":  "brands",
+                      "pattern":  "(?i)(^google$|^netease$|^tencent$|^mudrost$|^rexus$|^adobesmile$|^axio\\s*pongo$|^microsoft\\s*user$|^microsoft\\s*mitra\\s*telp$|^hyver\\s*v$)"
+                  },
+                  {
+                      "category":  "system-tools.home-automation",
+                      "pattern":  "(?i)(^home\\s*assisant$|^home\\s*assistant$)"
+                  },
+                  {
+                      "category":  "communication",
+                      "pattern":  "(?i)(^eleven\\s*forum$|^tim$)"
+                  },
+                  {
+                      "category":  "cloud",
+                      "pattern":  "(?i)\\b(inclowdz)\\b"
+                  },
+                  {
+                      "category":  "development",
+                      "pattern":  "(?i)(^c(\\s*\\d+)?$|^v$|\\b(open\\s*cv|keil\\d*)\\b)"
+                  },
+                  {
+                      "category":  "brands",
+                      "pattern":  "(?i)^microsoft\\s*user(\\s*\\d+)?$"
+                  },
+                  {
+                      "category":  "ai",
+                      "pattern":  "(?i)\\b(chatgpt|deepseek|gemini|bard|anthropic|claude|copilot|midjourney|leonardo|huggingface|ollama|lmstudio|comfyui|civitai|crewai|langchain|tensor\\s*flow|pytorch|stability\\s*matrix|google\\s*palm|cursor\\s*ai|trae|codebuddy|ai\\s*script|cortana)\\b"
+                  },
+                  {
+                      "category":  "gaming",
+                      "pattern":  "(?i)\\b(minecraft|pokemon|steam|epic|gog|gamejolt|playstation|xbox|nintendo|sega|blizzard|battle\\s*net|bethesda|electronic\\s*arts|riot\\s*games|ubisoft|uplay|rockstar|humble|itch\\s*io|fortnite|genshin|forza|fallout|cyberpunk|witcher|skyrim|oblivion|tarkov|brawl\\s*stars|clash\\s*royale|kurogame|endfield|netease\\s*fever\\s*games|mame|melonds|rpcs3|xenia|scummvm|pico8|zx\\s*speccy|rec\\s*room|vrchat|osu|oculus|apple\\s*arcade|prime\\s*gaming|chess|dungeons\\s*and\\s*dragons|miniworld|paradox|moddb|nexus\\s*vortex|gog\\s*games|wegame|miHoYo)\\b"
+                  },
+                  {
+                      "category":  "media.audio",
+                      "pattern":  "(?i)\\b(audio|music|mp3|podcasts?|ableton|audacity|audition|flstudio|foobar2000|bitwig|deezer|spotify|soundcloud|souncloud|tidal|anghami|amazon\\s*music|apple\\s*music|youtube\\s*music|netease\\s*cloud\\s*music|kugou\\s*music|musescore|sebelius|voice\\s*recorder|castbox|hise|deemix|dolby|betterncm)\\b"
+                  },
+                  {
+                      "category":  "media.video",
+                      "pattern":  "(?i)\\b(video|movie|youtube|netflix|hulu|hbo|disney|prime\\s*video|bilibili|vlc|mpv|potplayer|media\\s*player|jellyfin|plex|emby|imax|bluray|obs|streamlabs|screen\\s*recorder|davinci|premiere|after\\s*effect|media\\s*encoder|clipchamp|capcut|cupcut|filmora\\w*|pinnacle|imovie|goplay|genflix|shorts|twich|slideshow|tokkit|blackmagic\\s*fusion|ffmpeg|microsoft\\s*stream|google\\s*vids|anireel|demoair|democreator|dvdcreator|filmii|filmstock|uniconverter|vidair|videap)\\b"
+                  },
+                  {
+                      "category":  "media.photos",
+                      "pattern":  "(?i)\\b(photo|photos|picture|pictures|image|images|camera|gallery|screenshot|screen\\s*shot|lightroom|photoshop|photoscape|flickr|pixiv|stogram|greenshot|sharex|paintshop|photomirage|after\\s*shot|aftershot|pixcut|pixstudio|panorama|lens)\\b"
+                  },
+                  {
+                      "category":  "development.react",
+                      "pattern":  "(?i)\\b(react|reactive\\s*x|redux|nextjs|next\\s*js|gatsby)\\b"
+                  },
+                  {
+                      "category":  "development.vue",
+                      "pattern":  "(?i)\\b(vue|vuejs|vuetify|nuxtjs|nuxt\\s*js|pinia)\\b"
+                  },
+                  {
+                      "category":  "development.angular",
+                      "pattern":  "(?i)\\b(angular)\\b"
+                  },
+                  {
+                      "category":  "development.svelte",
+                      "pattern":  "(?i)\\b(svelte|sveltekit)\\b"
+                  },
+                  {
+                      "category":  "development.typescript",
+                      "pattern":  "(?i)\\b(typescript)\\b"
+                  },
+                  {
+                      "category":  "development.javascript",
+                      "pattern":  "(?i)\\b(javascript|jquery|expressjs|nestjs|threejs|webpack|vite|rollupjs|gulp|babel|deno|bun|qwik|solidjs|astro|htmx)\\b"
+                  },
+                  {
+                      "category":  "development.nodejs",
+                      "pattern":  "(?i)\\b(nodejs|node\\s*js|npm|pnpm|yarn)\\b"
+                  },
+                  {
+                      "category":  "development.python",
+                      "pattern":  "(?i)\\b(python|django|flask|fastapi|pytorch|marimo)\\b"
+                  },
+                  {
+                      "category":  "development.java",
+                      "pattern":  "(?i)\\b(java|spring|gradle|maven|hibernate)\\b"
+                  },
+                  {
+                      "category":  "development.dotnet",
+                      "pattern":  "(?i)\\b(dotnet|csharp|visual\\s*studio|nuget|xamarin|maui|avalonia)\\b"
+                  },
+                  {
+                      "category":  "development.cpp",
+                      "pattern":  "(?i)\\b(cplusplus|cpp|cmake|qt)\\b"
+                  },
+                  {
+                      "category":  "development.go",
+                      "pattern":  "(?i)\\b(golang)\\b"
+                  },
+                  {
+                      "category":  "development.rust",
+                      "pattern":  "(?i)\\b(rust|cargo|actix|bevy|tauri)\\b"
+                  },
+                  {
+                      "category":  "development.php",
+                      "pattern":  "(?i)\\b(php|laravel|symfony|codeigniter|wordpress|joomla|yii2)\\b"
+                  },
+                  {
+                      "category":  "development.ruby",
+                      "pattern":  "(?i)\\b(ruby|rails)\\b"
+                  },
+                  {
+                      "category":  "development.kotlin",
+                      "pattern":  "(?i)\\b(kotlin|ktor)\\b"
+                  },
+                  {
+                      "category":  "development.swift",
+                      "pattern":  "(?i)\\b(swift|xcode)\\b"
+                  },
+                  {
+                      "category":  "development.dart",
+                      "pattern":  "(?i)\\b(dart|flutter)\\b"
+                  },
+                  {
+                      "category":  "development.html",
+                      "pattern":  "(?i)\\b(html|htmx|pug)\\b"
+                  },
+                  {
+                      "category":  "development.css",
+                      "pattern":  "(?i)\\b(css|sass|less|tailwind|windicss|styled\\s*components|materialui|bootstrap)\\b"
+                  },
+                  {
+                      "category":  "development.scala",
+                      "pattern":  "(?i)\\b(scala)\\b"
+                  },
+                  {
+                      "category":  "development.clojure",
+                      "pattern":  "(?i)\\b(clojure)\\b"
+                  },
+                  {
+                      "category":  "development.elixir",
+                      "pattern":  "(?i)\\b(elixir)\\b"
+                  },
+                  {
+                      "category":  "development.haskell",
+                      "pattern":  "(?i)\\b(haskell)\\b"
+                  },
+                  {
+                      "category":  "development.lua",
+                      "pattern":  "(?i)\\b(lua)\\b"
+                  },
+                  {
+                      "category":  "development.perl",
+                      "pattern":  "(?i)\\b(perl)\\b"
+                  },
+                  {
+                      "category":  "development.fortran",
+                      "pattern":  "(?i)\\b(fortran)\\b"
+                  },
+                  {
+                      "category":  "development.julia",
+                      "pattern":  "(?i)\\b(julia)\\b"
+                  },
+                  {
+                      "category":  "development.r",
+                      "pattern":  "(?i)^r$"
+                  },
+                  {
+                      "category":  "development.databases",
+                      "pattern":  "(?i)\\b(database|mysql|postgresql|sqlite|mongodb|mariadb|redis|cassandra|dynamodb|sql\\s*server|oracle|supabase|firebase|planet\\s*scale|planetscale|prisma|sequelize)\\b"
+                  },
+                  {
+                      "category":  "development.devops",
+                      "pattern":  "(?i)\\b(docker|kubernetes|jenkins|ansible|grafana|prometheus|sentry|github\\s*actions|teamcity|qodana|openstack|openshift|cloudflare)\\b"
+                  },
+                  {
+                      "category":  "development.embedded",
+                      "pattern":  "(?i)(^and$|^not$|^or$|^xnor$|^xor$|\\b(arduino|espidf|stm32|rasberrypi|raspberry|rpi|orange\\s*pi|luck\\s*fox|luckfox|hi\\s*spark|hispark|rtthread|kicad|altium|vivado|xilinx|cube\\s*ide|cubeide|cube\\s*mx|cubemx|can\\s*mv|canmv|ccs|go\\s*win|gowin|vofa|logic\\s*gate|iot\\s*plug\\s*and\\s*play)\\b)"
+                  },
+                  {
+                      "category":  "development.game",
+                      "pattern":  "(?i)\\b(unity|unreal|godot|game\\s*maker|gdevelop|roblox\\s*studio|uefn|mcreator|pico8)\\b"
+                  },
+                  {
+                      "category":  "design.3d",
+                      "pattern":  "(?i)\\b(blender|cinema\\s*4d|houdini|zbrush|3d\\s*coat|daz3d|marmoset|modo|maya|3ds\\s*max|cascadeur|blockbench|keyshot|lumion)\\b"
+                  },
+                  {
+                      "category":  "design.cad",
+                      "pattern":  "(?i)\\b(autocad|r[e|a]vit|openscad|kicad|altium|easyeda|gerber|pcb|schematic)\\b"
+                  },
+                  {
+                      "category":  "development",
+                      "pattern":  "(?i)\\b(android\\s*studio|developer|programmer|programming|code|coding|github|gitlab|gitkraken|bitbucket|git|visual\\s*studio|vscode|vscodium|jetbrains|intellij|idea|pycharm|webstorm|phpstorm|rubymine|rider|goland|clion|datagrip|dataspell|eclipse|atom|neovim|vim|emacs|sublime|notepad\\+\\+|xcode|unity|unreal|godot|game\\s*maker|gdevelop|roblox\\s*studio|uefn|mcreator|docker|kubernetes|jenkins|ansible|grafana|prometheus|sentry|postman|cmake|gradle|maven|npm|pnpm|yarn|nuget|webpack|vite|rollup|gulp|babel|html|css|javascript|typescript|nodejs|python|java|kotlin|csharp|cplusplus|cpp|golang|rust|ruby|rails|php|laravel|symfony|django|flask|fastapi|dotnet|swift|dart|flutter|react|vue|angular|svelte|nextjs|nuxtjs|nestjs|expressjs|spring|scala|haskell|elixir|clojure|lua|perl|fortran|solidity|zig|vala|xamarin|maui|tauri|electron|cordova|corona\\s*sdk|ionic|bootstrap|tailwind|sass|less|jquery|graphql|threejs|web\\s*assembly|database|mysql|postgresql|sqlite|mongodb|mariadb|redis|cassandra|dynamodb|sql\\s*server|oracle|supabase|firebase|appwrite|netlify|vercel|heroku|openstack|openshift|arduino|espidf|stm32|rasberrypi|raspberry|rpi|kicad|altium|vivado|xilinx|rtthread|opencv|opengl|vulkan|matlab|octave|latex|json|markdown|regex|terminal|powershell|power\\s*shell|bash|bat|autohotkey|xampp|ddev|joomla|wordpress|adonis|apache\\s*httpd|apollo|azul|azur|codepen|coffeescript|crystal|cypress|d3|darkbasic|devto|discordjs|dts|elysia|ember|emotion|flux|forth|framework7|gerkin|gtk|haxe|hbuilderx|holyc|hyper|ipsf|jest|kafka|keil|knime|lit|nginx|nim|ocami|oven|pkl|processing|rabbitmq|remix|replit|rocket|ros|selenium|stackoverflow|svg|workers|xna|yew|lean|^c$|^v$)\\b"
+                  },
+                  {
+                      "category":  "design",
+                      "pattern":  "(?i)\\b(design|designer|adobe|coreldraw|affinity|autodesk|blender|cinema\\s*4d|houdini|zbrush|sketchup|figma|canva|krita|gimp|inkscape|aseprite|fontforge|paint|painter|drawing|drawio|dribble|artstation|devianart|concepts|daz3d|marmoset|modo|moho|nuke|quixel|keyshot|lumion|openscad|bambu\\s*studio|3d\\s*coat|cascadeur|blockbench|clipstudio|webflow|wacom|sketch|edraw\\w*|mockitt|orgcharting|creative\\s*center)\\b"
+                  },
+                  {
+                      "category":  "communication",
+                      "pattern":  "(?i)\\b(discord|telegram|whatsapp|wechat|messenger|facebook|instagram|reddit|twitter|tiktok|tumblr|mastodon|misskey|fediverse|activitypub|linkedin|qq|lark|google\\s*(meet|chat|mail|gmail|contacts)|microsoft\\s*(team|teams|skype|yammer|engage|exchange|contacts)|outlook|thunderbird|tencent\\s*wemeet|kaizala|local\\s*send|localsend|pinterest|9gag|pewdiepie)\\b"
+                  },
+                  {
+                      "category":  "web",
+                      "pattern":  "(?i)\\b(chrome|firefox|edge|opera|brave|vivaldi|safari|waterfox|zen\\s*browser|duckduckgo|tor|browser|cloudflare|waybackmachine|internet)\\b"
+                  },
+                  {
+                      "category":  "cloud",
+                      "pattern":  "(?i)\\b(dropbox|google\\s*drive|onedrive|icloud|mega|pcloud|baidu\\s*netdisk|syncthing|creative\\s*cloud|document\\s*cloud|google\\s*cloud|azure|amazon|cloud\\s*platform|cloud\\s*storage|openstack|heroku|netlify|vercel|supabase|firebase)\\b"
+                  },
+                  {
+                      "category":  "download-transfer",
+                      "pattern":  "(?i)\\b(download|downloader|torrent|pirate\\s*bay|qbittorent|bittorrent|utorrent|emule|motrix|jdownloader|uget|free\\s*download\\s*manager|internet\\s*download\\s*manager|quickshare|local\\s*send|localsend|mobiletrans|mirrorgo|wutsapper|handshaker)\\b"
+                  },
+                  {
+                      "category":  "security-privacy",
+                      "pattern":  "(?i)\\b(security|privacy|antivirus|defender|bitdefender|kaspersky|mcafee|norton|eset|bullguard|total\\s*av|kee\\s*pass|keepass|enpass|authenticator|lock|locker|unlock|vault|quarantine|tailscale|v2ray|clash\\s*verge|usb\\s*killer|family\\s*safety|famisafe|anonymous)\\b"
+                  },
+                  {
+                      "category":  "operating-systems",
+                      "pattern":  "(?i)\\b(windows(\\s*(7|8|10|11|xp))?|linux|ubuntu|debian|fedora|redhat|arch\\s*linux|manjaro|garuda|kali|mint|open\\s*suse|pop\\s*os|zorin|alpinejs|deepin|elementary\\s*os|parrot\\s*os|bsd|plan9|android(\\s*(10|11|12|13|14|15|16|17|ice\\s*cream|jelly\\s*bean|lollipop|marshmallow|nougat|oreo|pie))?|lineage\\s*os|evolution\\s*x|resurrection\\s*remix|nusantara\\s*project|mac\\s*os|mac\\s*desktop|amiga|gnome|kde)\\b"
+                  },
+                  {
+                      "category":  "system-tools",
+                      "pattern":  "(?i)\\b(control\\s*panel|task\\s*manager|regedit|sysinternal|power\\s*toys|system\\s*monitor|resource\\s*hacker|everything|wiztree|iobit|scoop|chocolatey|portableapps|program\\s*(exe|install|manager)|network\\s*server|remote\\s*desktop|todesk|virtualbox|vm\\s*workstation|dosbox|scrcpy|cachefile|log|menu\\s*settings|options?|shortcuts|windows\\s*update|blue\\s*screen|terminal|powershell|power\\s*shell|intune\\s*company\\s*portal|dr\\s*fone)\\b"
+                  },
+                  {
+                      "category":  "hardware",
+                      "pattern":  "(?i)\\b(3\\s*d\\s*printer|3d\\s*printer|asus|acer|alienware|aorus|gigabyte|hp\\s*omen|lenovo|msi|logitech|corsair|razer|nvidia|amd|ryzen|intel|qualcomm|realtek|huawei|xiaomi|xilinx|orange\\s*pi|luck\\s*fox|luckfox|hi\\s*spark|hispark|chip|nand|nor|ssd|nvme|sdcard|flashdisk|usb|bluetooth|avermedia|wacom|bambu|benq|apacer|raspberry|rasberry|rpi|stm32|arduino)\\b"
+                  },
+                  {
+                      "category":  "education",
+                      "pattern":  "(?i)\\b(education|academy|academia|classroom|learning|learn|school|scuola|masterclass|biology|chemistry|physics|mathematics|math|language|dictionary|books?|calibre|foliate|anki|leetcode|wikipedia|zotero|reading\\s*coach|tutorial)\\b"
+                  },
+                  {
+                      "category":  "finance",
+                      "pattern":  "(?i)\\b(finance|money|bank|bocbank|coin|blockchain|accounting|business\\s*central|advertising)\\b"
+                  },
+                  {
+                      "category":  "archive-backup",
+                      "pattern":  "(?i)\\b(archive|backup|reflect|recover\\w*|repair\\w*|7zip|7\\s*zip|winrar|winzip|nanazip|peazip|bandizip|tar\\s*gz|roxio|ubackit)\\b"
+                  },
+                  {
+                      "category":  "personalization",
+                      "pattern":  "(?i)\\b(font|theme|personalization|stardock|dracula|folder11|directory\\s*homer|pixelated)\\b"
+                  },
+                  {
+                      "category":  "productivity",
+                      "pattern":  "(?i)\\b(office|microsoft\\s*365|word|excel|power\\s*point|powerpoint|access|onenote|publisher|visio|project|planner|loop|forms?|sheets?|slides?|docs?|calendar|contacts?|notion|obsidian|evernote|joplin|simplenote|sticky\\s*notes|ticktick|typora|vnote|xmind|mindmap|mindnode|whiteboard|sway|power\\s*bi|power\\s*apps|power\\s*automate|dynamics|wps|libre\\s*office|wordperfect|briefcase|schedule|tasks?|taks|document|pdf\\w*|files?|finder|workbuddy|uipath|sharepoint|google\\s*keep|google\\s*sites|warehouse\\s*management)\\b"
+                  },
+                  {
+                      "category":  "productivity.spreadsheets",
+                      "pattern":  "(?i)\\b(excel|sheets|spreadsheet|calc)\\b"
+                  },
+                  {
+                      "category":  "productivity.presentations",
+                      "pattern":  "(?i)\\b(power\\s*point|powerpoint|slides|presentation|impress)\\b"
+                  },
+                  {
+                      "category":  "productivity.documents",
+                      "pattern":  "(?i)\\b(word|docs|document|pdf|writer|notes|notepad|typora|markdown|joplin|obsidian|onenote)\\b"
+                  },
+                  {
+                      "category":  "generic",
+                      "pattern":  "(?i)\\b(application|apps|archive|audio|bookmark|briefcase|checkmark|clock|contacts|design|downloads|drawing|education|files?|font|graphics|kit|lock|locker|memory|menu|mountains|movie|music|option|pictures?|program|prompt|schedule|search|shortcuts|trash|unlock|vault)\\b"
+                  }
+              ]
+}

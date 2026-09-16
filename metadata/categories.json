@@ -1,0 +1,511 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-07-30T06:52:37.5716522+00:00",
+    "source":  "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/Folder11.json",
+    "categories":  [
+                       {
+                           "id":  "applications",
+                           "name":  "Applications",
+                           "parent":  null,
+                           "description":  "Application and service icons that do not yet have a more specific category."
+                       },
+                       {
+                           "id":  "ai",
+                           "name":  "AI",
+                           "parent":  null,
+                           "description":  "Artificial intelligence, assistants, models, and generative tools."
+                       },
+                       {
+                           "id":  "development",
+                           "name":  "Development",
+                           "parent":  null,
+                           "description":  "Programming languages, frameworks, developer tools, databases, and DevOps."
+                       },
+                       {
+                           "id":  "development.web",
+                           "name":  "Web Development",
+                           "parent":  "development",
+                           "description":  "Web applications, frontend, and backend development."
+                       },
+                       {
+                           "id":  "development.javascript",
+                           "name":  "JavaScript",
+                           "parent":  "development.web",
+                           "description":  "JavaScript projects and source files."
+                       },
+                       {
+                           "id":  "development.typescript",
+                           "name":  "TypeScript",
+                           "parent":  "development.javascript",
+                           "description":  "TypeScript projects and source files."
+                       },
+                       {
+                           "id":  "development.nodejs",
+                           "name":  "Node.js",
+                           "parent":  "development.javascript",
+                           "description":  "Node.js applications and packages."
+                       },
+                       {
+                           "id":  "development.react",
+                           "name":  "React",
+                           "parent":  "development.javascript",
+                           "description":  "React and React-based projects."
+                       },
+                       {
+                           "id":  "development.vue",
+                           "name":  "Vue",
+                           "parent":  "development.javascript",
+                           "description":  "Vue and Nuxt projects."
+                       },
+                       {
+                           "id":  "development.angular",
+                           "name":  "Angular",
+                           "parent":  "development.typescript",
+                           "description":  "Angular projects."
+                       },
+                       {
+                           "id":  "development.svelte",
+                           "name":  "Svelte",
+                           "parent":  "development.javascript",
+                           "description":  "Svelte and SvelteKit projects."
+                       },
+                       {
+                           "id":  "development.html",
+                           "name":  "HTML",
+                           "parent":  "development.web",
+                           "description":  "HTML documents and web projects."
+                       },
+                       {
+                           "id":  "development.css",
+                           "name":  "CSS",
+                           "parent":  "development.web",
+                           "description":  "CSS, Sass, Less, and styling projects."
+                       },
+                       {
+                           "id":  "development.python",
+                           "name":  "Python",
+                           "parent":  "development",
+                           "description":  "Python projects, scripts, and notebooks."
+                       },
+                       {
+                           "id":  "development.java",
+                           "name":  "Java",
+                           "parent":  "development",
+                           "description":  "Java projects and applications."
+                       },
+                       {
+                           "id":  "development.dotnet",
+                           "name":  ".NET \u0026 C#",
+                           "parent":  "development",
+                           "description":  ".NET, C#, F#, and Visual Basic projects."
+                       },
+                       {
+                           "id":  "development.cpp",
+                           "name":  "C \u0026 C++",
+                           "parent":  "development",
+                           "description":  "C and C++ projects."
+                       },
+                       {
+                           "id":  "development.go",
+                           "name":  "Go",
+                           "parent":  "development",
+                           "description":  "Go projects and modules."
+                       },
+                       {
+                           "id":  "development.rust",
+                           "name":  "Rust",
+                           "parent":  "development",
+                           "description":  "Rust projects and crates."
+                       },
+                       {
+                           "id":  "development.php",
+                           "name":  "PHP",
+                           "parent":  "development.web",
+                           "description":  "PHP applications and frameworks."
+                       },
+                       {
+                           "id":  "development.ruby",
+                           "name":  "Ruby",
+                           "parent":  "development",
+                           "description":  "Ruby and Rails projects."
+                       },
+                       {
+                           "id":  "development.kotlin",
+                           "name":  "Kotlin",
+                           "parent":  "development",
+                           "description":  "Kotlin and Android projects."
+                       },
+                       {
+                           "id":  "development.swift",
+                           "name":  "Swift",
+                           "parent":  "development",
+                           "description":  "Swift and Apple platform projects."
+                       },
+                       {
+                           "id":  "development.dart",
+                           "name":  "Dart \u0026 Flutter",
+                           "parent":  "development",
+                           "description":  "Dart and Flutter projects."
+                       },
+                       {
+                           "id":  "development.scala",
+                           "name":  "Scala",
+                           "parent":  "development",
+                           "description":  "Scala projects."
+                       },
+                       {
+                           "id":  "development.clojure",
+                           "name":  "Clojure",
+                           "parent":  "development",
+                           "description":  "Clojure projects."
+                       },
+                       {
+                           "id":  "development.elixir",
+                           "name":  "Elixir",
+                           "parent":  "development",
+                           "description":  "Elixir projects."
+                       },
+                       {
+                           "id":  "development.haskell",
+                           "name":  "Haskell",
+                           "parent":  "development",
+                           "description":  "Haskell projects."
+                       },
+                       {
+                           "id":  "development.lua",
+                           "name":  "Lua",
+                           "parent":  "development",
+                           "description":  "Lua projects and scripts."
+                       },
+                       {
+                           "id":  "development.perl",
+                           "name":  "Perl",
+                           "parent":  "development",
+                           "description":  "Perl projects and scripts."
+                       },
+                       {
+                           "id":  "development.fortran",
+                           "name":  "Fortran",
+                           "parent":  "development",
+                           "description":  "Fortran projects."
+                       },
+                       {
+                           "id":  "development.julia",
+                           "name":  "Julia",
+                           "parent":  "development",
+                           "description":  "Julia projects."
+                       },
+                       {
+                           "id":  "development.r",
+                           "name":  "R",
+                           "parent":  "development",
+                           "description":  "R projects and data analysis."
+                       },
+                       {
+                           "id":  "development.databases",
+                           "name":  "Databases",
+                           "parent":  "development",
+                           "description":  "Database engines, clients, and SQL projects."
+                       },
+                       {
+                           "id":  "development.devops",
+                           "name":  "DevOps",
+                           "parent":  "development",
+                           "description":  "Containers, orchestration, CI/CD, and infrastructure."
+                       },
+                       {
+                           "id":  "development.embedded",
+                           "name":  "Embedded \u0026 IoT",
+                           "parent":  "development",
+                           "description":  "Microcontrollers, electronics, embedded systems, and IoT."
+                       },
+                       {
+                           "id":  "development.game",
+                           "name":  "Game Development",
+                           "parent":  "development",
+                           "description":  "Game engines, game editors, and game development projects."
+                       },
+                       {
+                           "id":  "gaming",
+                           "name":  "Gaming",
+                           "parent":  null,
+                           "description":  "Games, launchers, consoles, emulators, and gaming platforms."
+                       },
+                       {
+                           "id":  "gaming.games",
+                           "name":  "Games",
+                           "parent":  "gaming",
+                           "description":  "Individual games and game franchises."
+                       },
+                       {
+                           "id":  "gaming.platforms",
+                           "name":  "Gaming Platforms",
+                           "parent":  "gaming",
+                           "description":  "Game stores, publishers, launchers, and online gaming services."
+                       },
+                       {
+                           "id":  "gaming.consoles",
+                           "name":  "Consoles",
+                           "parent":  "gaming",
+                           "description":  "Gaming consoles and console platforms."
+                       },
+                       {
+                           "id":  "gaming.emulators",
+                           "name":  "Emulators",
+                           "parent":  "gaming",
+                           "description":  "Console, arcade, and retro-game emulators."
+                       },
+                       {
+                           "id":  "gaming.mods",
+                           "name":  "Mods \u0026 Modding",
+                           "parent":  "gaming",
+                           "description":  "Game modifications, mod managers, and mod communities."
+                       },
+                       {
+                           "id":  "gaming.minecraft",
+                           "name":  "Minecraft",
+                           "parent":  "gaming.games",
+                           "description":  "Minecraft, mobs, blocks, and related content."
+                       },
+                       {
+                           "id":  "gaming.pokemon",
+                           "name":  "PokÃ©mon",
+                           "parent":  "gaming.games",
+                           "description":  "PokÃ©mon games, PokÃ© Balls, and related content."
+                       },
+                       {
+                           "id":  "entertainment",
+                           "name":  "Entertainment \u0026 Culture",
+                           "parent":  null,
+                           "description":  "Humor, fandom, anime, culture, and entertainment content."
+                       },
+                       {
+                           "id":  "entertainment.memes",
+                           "name":  "Memes \u0026 Humor",
+                           "parent":  "entertainment",
+                           "description":  "Memes, humor, and internet culture."
+                       },
+                       {
+                           "id":  "entertainment.anime-manga",
+                           "name":  "Anime \u0026 Manga",
+                           "parent":  "entertainment",
+                           "description":  "Anime, manga, and related fandoms."
+                       },
+                       {
+                           "id":  "entertainment.fandom",
+                           "name":  "Fandom \u0026 Themes",
+                           "parent":  "entertainment",
+                           "description":  "Fandom, fictional themes, and cultural collections."
+                       },
+                       {
+                           "id":  "activities",
+                           "name":  "Activities \u0026 Lifestyle",
+                           "parent":  null,
+                           "description":  "Sports, travel, health, food, hobbies, and everyday activities."
+                       },
+                       {
+                           "id":  "activities.sports",
+                           "name":  "Sports",
+                           "parent":  "activities",
+                           "description":  "Sports, teams, competitions, and physical activities."
+                       },
+                       {
+                           "id":  "activities.travel-outdoors",
+                           "name":  "Travel \u0026 Outdoors",
+                           "parent":  "activities",
+                           "description":  "Travel, nature, destinations, and outdoor activities."
+                       },
+                       {
+                           "id":  "activities.health-fitness",
+                           "name":  "Health \u0026 Fitness",
+                           "parent":  "activities",
+                           "description":  "Health, wellness, fitness, and medical activities."
+                       },
+                       {
+                           "id":  "activities.food",
+                           "name":  "Food \u0026 Cooking",
+                           "parent":  "activities",
+                           "description":  "Food, cooking, restaurants, and culinary activities."
+                       },
+                       {
+                           "id":  "activities.family-personal",
+                           "name":  "Family \u0026 Personal",
+                           "parent":  "activities",
+                           "description":  "Family, people, personal life, and household activities."
+                       },
+                       {
+                           "id":  "marketplaces",
+                           "name":  "Stores \u0026 Marketplaces",
+                           "parent":  null,
+                           "description":  "Application stores, asset marketplaces, and digital storefronts."
+                       },
+                       {
+                           "id":  "brands",
+                           "name":  "Brands \u0026 Organizations",
+                           "parent":  null,
+                           "description":  "Corporate, organization, and general brand identity icons."
+                       },
+                       {
+                           "id":  "design",
+                           "name":  "Design",
+                           "parent":  null,
+                           "description":  "Graphic design, 3D, CAD, illustration, and creative tools."
+                       },
+                       {
+                           "id":  "design.3d",
+                           "name":  "3D Design",
+                           "parent":  "design",
+                           "description":  "3D modeling, rendering, sculpting, and animation."
+                       },
+                       {
+                           "id":  "design.cad",
+                           "name":  "CAD \u0026 Electronics Design",
+                           "parent":  "design",
+                           "description":  "CAD, architecture, PCB, and engineering design."
+                       },
+                       {
+                           "id":  "media",
+                           "name":  "Media",
+                           "parent":  null,
+                           "description":  "Photos, video, and audio."
+                       },
+                       {
+                           "id":  "media.photos",
+                           "name":  "Photos",
+                           "parent":  "media",
+                           "description":  "Photography, images, screenshots, galleries, and photo tools."
+                       },
+                       {
+                           "id":  "media.video",
+                           "name":  "Video",
+                           "parent":  "media",
+                           "description":  "Video editing, recording, streaming, movies, and video services."
+                       },
+                       {
+                           "id":  "media.audio",
+                           "name":  "Audio",
+                           "parent":  "media",
+                           "description":  "Music, podcasts, recording, audio editing, and audio services."
+                       },
+                       {
+                           "id":  "productivity",
+                           "name":  "Productivity",
+                           "parent":  null,
+                           "description":  "Office, notes, planning, documents, and work tools."
+                       },
+                       {
+                           "id":  "productivity.documents",
+                           "name":  "Documents",
+                           "parent":  "productivity",
+                           "description":  "Documents, text, notes, and writing."
+                       },
+                       {
+                           "id":  "productivity.spreadsheets",
+                           "name":  "Spreadsheets",
+                           "parent":  "productivity",
+                           "description":  "Spreadsheets, tables, and data workbooks."
+                       },
+                       {
+                           "id":  "productivity.presentations",
+                           "name":  "Presentations",
+                           "parent":  "productivity",
+                           "description":  "Slides and presentation files."
+                       },
+                       {
+                           "id":  "communication",
+                           "name":  "Communication \u0026 Social",
+                           "parent":  null,
+                           "description":  "Messaging, meetings, email, communities, and social networks."
+                       },
+                       {
+                           "id":  "web",
+                           "name":  "Web \u0026 Browsers",
+                           "parent":  null,
+                           "description":  "Web browsers and internet-focused applications."
+                       },
+                       {
+                           "id":  "cloud",
+                           "name":  "Cloud \u0026 Sync",
+                           "parent":  null,
+                           "description":  "Cloud platforms, storage, synchronization, and hosted services."
+                       },
+                       {
+                           "id":  "download-transfer",
+                           "name":  "Download \u0026 Transfer",
+                           "parent":  null,
+                           "description":  "Download managers, torrents, sharing, and file transfer tools."
+                       },
+                       {
+                           "id":  "security-privacy",
+                           "name":  "Security \u0026 Privacy",
+                           "parent":  null,
+                           "description":  "Security, antivirus, passwords, VPN, privacy, and access control."
+                       },
+                       {
+                           "id":  "system-tools",
+                           "name":  "System Tools",
+                           "parent":  null,
+                           "description":  "System management, terminals, utilities, and maintenance tools."
+                       },
+                       {
+                           "id":  "operating-systems",
+                           "name":  "Operating Systems",
+                           "parent":  null,
+                           "description":  "Windows, Linux distributions, Android, macOS, and other operating systems."
+                       },
+                       {
+                           "id":  "hardware",
+                           "name":  "Hardware",
+                           "parent":  null,
+                           "description":  "Devices, components, manufacturers, drivers, and embedded boards."
+                       },
+                       {
+                           "id":  "education",
+                           "name":  "Education",
+                           "parent":  null,
+                           "description":  "Learning, science, books, references, and academic tools."
+                       },
+                       {
+                           "id":  "education.reading",
+                           "name":  "Reading \u0026 Books",
+                           "parent":  "education",
+                           "description":  "Books, reading, libraries, and reference collections."
+                       },
+                       {
+                           "id":  "education.history",
+                           "name":  "History",
+                           "parent":  "education",
+                           "description":  "History, historical figures, cultures, and periods."
+                       },
+                       {
+                           "id":  "finance",
+                           "name":  "Finance",
+                           "parent":  null,
+                           "description":  "Banking, money, cryptocurrency, and business finance."
+                       },
+                       {
+                           "id":  "archive-backup",
+                           "name":  "Archive \u0026 Backup",
+                           "parent":  null,
+                           "description":  "Archives, compression, recovery, and backup tools."
+                       },
+                       {
+                           "id":  "personalization",
+                           "name":  "Personalization",
+                           "parent":  null,
+                           "description":  "Fonts, themes, appearance, and desktop customization."
+                       },
+                       {
+                           "id":  "system-tools.home-automation",
+                           "name":  "Home Automation",
+                           "parent":  "system-tools",
+                           "description":  "Smart-home management, automation, and connected devices."
+                       },
+                       {
+                           "id":  "generic",
+                           "name":  "Generic Folders",
+                           "parent":  null,
+                           "description":  "Reusable folder concepts such as downloads, files, bookmarks, and trash."
+                       }
+                   ]
+}
